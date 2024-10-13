@@ -1,0 +1,649 @@
+---
+title: "-Better software for Better research-<br>Introduction to the FAIR<sup>2</sup> for Research Software training Programme"
+format:
+    revealjs:
+        theme: [dark, custom.scss]
+        slide-number: true
+        show-slide-number: speaker
+author: "<br>**Romain Thomas**<br>[Head of Research Software Engineering](https://rse.shef.ac.uk/),<br> The University of Sheffield<br>[rse.shef.ac.uk](https://rse.shef.ac.uk)"
+institute: "<br><strong>FAIR24RS training programme Kick-off Seminar</strong>, October 2024"
+date: ""
+footer: "**slides**: []() - **Source** [github.com](git@github.com:FAIR2-for-research-software/Better_software_for_better_research.git)"
+from: markdown+emoji
+css: style.css
+---
+
+
+## Who are we? The teams behind the programme {.smaller}
+**Research Software Engineering**
+
+::: {.columns}
+
+::: {.column width="30%"}
+
+![](assets/images/RSE_logo_blackborder.svg){fig-align="center"}
+:::
+
+
+
+::: {.column width="70%"}
+
+The Research Software Engineering team is composed of 11 engineers and **`collaborates with researcher across the University in building research software`**. Areas of expertise within the group include: code optimisation and performance, reproducibility and embedding good software engineering practice with a project or team, developing computational workflows, GPU computing and Deep Learning, data science/visualisation, High Performance Computing, general software development, development of impact case studies, consultancy, training and education delivery and support.
+
+:::
+
+:::
+
+## Who are we? The teams behind the programme {.smaller}
+**Data Analytics Service**
+
+::: {.columns}
+
+::: {.column width="30%"}
+
+:::
+
+
+
+::: {.column width="70%"}
+
+The Data Analytics Service (IT Services) supports research excellence at the University of Sheffield by bridging technical and analytical gaps through consultation, delivering training, and long-term collaboration with research teams. `DAS supports researchers with reproducible data analysis, data visualisation, data engineering, machine learning, statistics, big data, research software, web design, and much more.`
+
+
+:::
+
+:::
+
+
+## Who are we? The teams behind the programme {.smaller}
+**Library's Scholarly Communications Team**
+
+::: {.columns}
+
+::: {.column width="30%"}
+
+:::
+
+::: {.column width="70%"}
+
+The Library's Scholarly Communications Team provides specialist services to support researchers at the University of Sheffield. They offer guidance on making your research outputs open access, and give `support on good practice in research data management, copyright and licensing as well as open research more broadly.`
+
+:::
+
+:::
+
+# Why FAIR?
+
+# Why ~~FAIR~~?
+
+# Why OPEN?
+
+
+## Research is a continuous process 
+
+`"The succession of researchers is comparable to a single person who learns indefinitely.`<br>
+*Pascal, Pensee, French Mathematician, Physicist, inventor, philosopher and theologian  [1623-1662]*
+![](assets/images/pascal.webp){.absolute top="250" left="800" width="300" height="350"}
+
+::: incremental
+-   That's very old....
+-   But still very valid...
+-   And becomes much more difficult with the<br>complexity of modern research
+:::
+
+## Research creates knowledge…that is passed down{.smaller}
+
+`"Knowledge is humankind's most precious treasure. Everything that we accomplished has been done due to the capacity to create a transmissible heritage, which spares each new generation the task of starting from scratch."` B. Sirbey<br><br><br>
+
+> If we are doing the research you are doing today, it is thanks to the work of previous generations that created the knowledge that we are using know.
+
+## And that can be trusted...
+
+::: {.columns}
+
+::: {.column width="60%"}
+
+::: incremental
+-   Research relies on the ability to trust what has been done before. 
+-   This means that a result has been tested, verified and could be `reproduced` :arrow_right::arrow_right:
+-   Tools and methods used for a particular result are known and shared…
+:::
+
+:::
+
+::: {.column width="40%"}
+<br>
+![](assets/images/reproducible_turing.png)
+<font size="2">[The Turing Way](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-fair.html) project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://dx.doi.org/10.5281/zenodo.3332807)</font>
+:::
+
+:::
+
+
+## What if a generation of research stop doing this?
+
+::: {.columns}
+
+::: {.column width="60%"}
+
+::: incremental
+-   Tools and methods used for a particular results are `NOT` known and shared…
+-   This means that a result can `NOT` be tested and verified and can `NOT` be reproduced.
+-   :arrow_right: It is harder to trust research
+:::
+
+:::
+
+::: {.column width="40%"}
+
+<br>
+![](assets/images/reproducible_turing.png)
+<font size="2">[The Turing Way](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-fair.html) project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://dx.doi.org/10.5281/zenodo.3332807)</font>
+
+:::
+
+:::
+
+
+## Are we far from reaching this situation?
+::: {.columns}
+
+::: {.column width="40%"}
+
+<br>
+![](assets/images/NatureSurvey.png)<br>
+<font size="2">[Source: Baker M., Nature, 2016](https://www.nature.com/articles/533452a)</font>
+:::
+
+::: {.column width="60%"}
+
+::: {.r-stack}
+
+::: incremental
+-   90% said there is a crisis!
+-   More than 70% of researchers have tried and failed to reproduce another scientist's experiments…
+-   `And more than half have failed to reproduce their own experiments.`
+:::
+
+![](assets/images/Joey.png){.fragment width="600" height="300"}
+
+:::
+
+:::
+
+:::
+
+# I am probably one of them...!
+
+# So how do we get better?
+
+## Let's improve!
+
+
+::: {.columns}
+
+::: {.column width="70%"}
+<br>
+![](assets/images/continuum.png){fig-align="center"}<br>
+<font size="2">[Source: www.aalto.fi](https://www.aalto.fi/en/open-science-and-research/getting-started-with-reproducibility-in-research)</font>
+:::
+
+::: {.column width="30%"}
+
+::: incremental
+-   That’s a lot to consider…But don’t be scared!!!!
+-   You do not need to learn everything at once… `Start by one!`
+:::
+
+:::
+
+:::
+
+# And why not start with your software?
+
+## Let's start by a definition: What is a software?
+
+<br>
+<br>
+"Source code files, algorithms, scripts, computational workflows and executables that were created during the research process or for a research purpose."
+
+<font size="4">[Barker et al. Scientific Data 9:622 (2022) “Introducing the FAIR Principles for research software”](https://dx.doi.org/10.1038/s41597-022-01710-x) </font>
+
+
+# What is FAIR?
+
+
+## The FAIR principles
+
+::: {.columns}
+
+::: {.column width="65%"}
+
+![](assets/images/Fairprinciples.jpg){fig-align="center"}<br>
+<font size="2">[The Turing Way](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-fair.html) project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://dx.doi.org/10.5281/zenodo.3332807)</font>
+:::
+
+::: {.column width="35%"}
+<br><br>
+A guideline for those wishing to enhance the reusability of their data holdings<br><font size="4"> –Wilkinson et al. (2016)–  </font>
+:::
+
+:::
+
+## The FAIR principles
+
+“Many of the FAIR Guiding Principles can be directly applied to research software by treating software and data as similar digital research objects. However, `specific characteristics of software — such as its executability, composite nature, and continuous evolution and versioning` — make it necessary to revise and extend the principles.”
+
+<font size="4">[Chue Hong, Neil P. et al, FAIR Principles for Research Software (FAIR4RS Principles)](https://doi.org/10.15497/RDA00068)</font>
+
+
+## Findable {.smaller}
+
+**Software, and its associated metadata, is easy for both humans and machines to find.**
+
+<font size=6>
+<ol type="1">
+<li>Software is assigned a globally unique and persistent identifier
+    <ol type="i">
+        <li>Components of the software representing levels of granularity are assigned distinct identifiers.</li>
+        <li>Different versions of the software are assigned distinct identifiers.</li>
+    </ol>
+</li>
+<li>Software is described with rich metadata.</li>
+<li>Metadata clearly and explicitly include the identifier of the software they describe.</li>
+<li>Metadata are FAIR, searchable and indexable.</li>
+</ol>
+</font>
+
+<font size=4>[Barker *et al.* *Scientific Data* 9:622 (2022) "Introducing the FAIR Principles for research software" DOI: 10.1038/s41597-022-01710-x](https://dx.doi.org/10.1038/s41597-022-01710-x)</font>
+
+
+## Accessible 
+
+**Software, and its metadata, is retrievable via standardised protocols.**
+
+<font size=6>
+<ol type="1">
+<li>Software is retrievable by its identifier using a standardised communications protocol.
+    <ol type="i">
+        <li>The protocol is open, free, and universally implementable.</li>
+        <li>The protocol allows for an authentication and authorization procedure, where necessary.</li>
+    </ol>
+</li>
+<li>Metadata are accessible, even when the software is no longer available.</li>
+</ol>
+</font>
+
+<font size=4>[Barker *et al.* *Scientific Data* 9:622 (2022) "Introducing the FAIR Principles for research software" DOI: 10.1038/s41597-022-01710-x](https://dx.doi.org/10.1038/s41597-022-01710-x)</font>
+
+## Interoperable
+
+**Software interoperates with other software by exchanging data and/or metadata, and/or through interaction via application programming interfaces (APIs), described through standards.**
+
+<font size=6>
+<ol type="1">
+<li>Software reads, writes and exchanges data in a way that meets domain-relevant community standards.</li>
+<li>Software includes qualified references to other objects.</li>
+</ol>
+</font>
+
+<font size=4>[Barker *et al.* *Scientific Data* 9:622 (2022) "Introducing the FAIR Principles for research software" DOI: 10.1038/s41597-022-01710-x](https://dx.doi.org/10.1038/s41597-022-01710-x)</font>
+
+## Reusable
+
+**Software is both usable (can be executed) and reusable (can be understood, modified, built upon, or incorporated into other software).**
+
+<font size=6>
+<ol type="1">
+<li>Software is described with a plurality of accurate and relevant attributes.
+    <ol type="i">
+        <li>Software is given a clear and accessible license.</li>
+        <li>Software is associated with detailed provenance.</li>
+    </ol>
+</li>
+<li>Software includes qualified references to other software.</li>
+<li>Software meets domain-relevant community standards.</li>
+</ol>
+</font>
+
+<font size=4>[Barker *et al.* *Scientific Data* 9:622 (2022) "Introducing the FAIR Principles for research software" DOI: 10.1038/s41597-022-01710-x](https://dx.doi.org/10.1038/s41597-022-01710-x)</font>
+
+
+## University position about FAIR {.smaller}
+
+<br>
+‘‘We aspire to open research culture that values a diverse range of contributions and adheres to the FAIR principles to enable the results of our research to be of maximum benefit to society (findable, accessible, interoperable and reusable), whilst also respecting circumstances that limit data sharing (for example, due to issues of privacy, non-consent, contractual agreements, legislation or practicality).’’ [University of Sheffield, Statement on Open Research](https://www.sheffield.ac.uk/openresearch/university-statement-open-research)
+<br><br>
+‘‘All researchers, including postgraduate research students, have a personal responsibility to manage effectively the data they create….. All researchers are expected to document research data and software in line with the FAIR principles…..’’ [University of Sheffield, Policy on good research and innovation practices](https://www.sheffield.ac.uk/media/18953/download)
+
+
+## Barriers to FAIR4RS {.smaller}
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+::: {.incremental}
+
++ fear of prejudice
+    + important to create a positive culture
++ fear of 'theft'
+    + licensing and citation
++ technical and time barriers
+    + support is available!
+    + only need to learn once
++ non-commercialisable?
+    + open source and commercialisation are compatible
+    + greater impact through open source
+
+:::
+
+:::
+
+::: {.column width="50%"}
+![](assets/images/keynote1h.JPG)
+<font size=2>Better Science through Better Data 2017 (#scidata17) scribe images. <https://doi.org/10.6084/m9.figshare.5558653.v1></font>
+
+:::
+
+:::
+
+## Benefits of FAIR4RS
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+![](assets/images/keynote1b.JPG)
+<font size=2>Better Science through Better Data 2017 (#scidata17) scribe images. <https://doi.org/10.6084/m9.figshare.5558653.v1></font>
+
+:::
+
+::: {.column width="50%"}
+
+::: {.incremental}
+
++ Accelerate research
++ Increase transparency of research
++ Increase visibility, citation, reputation and impact
++ Reduce duplication of effort
+
+:::
+
+:::
+
+:::
+
+## How to be FAIR?
+
+
+![](assets/images/chan_invert.png){fig-align="center" width="800" height="500"}
+
+
+## An example of (small) software
+
+
+
+## FA<span style="color:red">IR</span>4RS: Think about how you are coding...
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+
+::: incremental
+-  Where possible, make your code modular.
+-  Comment your code to make it as clear as possible.
+-  Create and provide tests that others can use.
+-  Follow code standards
+:::
+
+:::
+
+::: {.column width="50%"}
+
+<br>
+![](assets/images/standards.png){.absolute top="150" left="600" width="500" height="450"}
+:::
+
+:::
+
+## FA<span style="color:red">IR</span>4RS: Be open even inside the code!{.smaller}
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+
+::: incremental
+-  Where possible and applicable, outputs (even between pieces of code) should use open and accessible data formats, which will help if other researchers only wish to use part of your code.
+-  `But do NOT reinvent the wheel!` In some research fields data format are standardized :arrow_right: if you want people to use your code, use [your] community standards!
+
+:::
+
+:::
+
+::: {.column width="50%"}
+
+<br>
+![](assets/images/wheel.png){.absolute top="150" left="550" width="500" height="350"}
+:::
+
+:::
+
+
+## <span style="color:red">FAIR</span>4RS: Version your code!{.smaller}
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+
+::: incremental
+-  Using version control software platform such as Github/GitLab allows you to keep track of the changes you make to your code
+-  You can release version of your software/code/scripts directly from Github. While it should not be used a long term storage place, It gives a place where your code can be downloaded and where people can contribute.
+
+:::
+
+:::
+
+::: {.column width="50%"}
+
+![](assets/images/repo.png){.absolute top="150" left="550" width="480" height="300"} <br><br><br><br><br><br><br><br><br><br>
+<font size=2>[https://www.sheffield.ac.uk/library/research-data-management/repositories](https://www.sheffield.ac.uk/library/research-data-management/repositories)</font>
+:::
+
+:::
+
+
+
+
+## FA<span style="color:red">IR</span>4RS: Document your code!{.smaller}
+
+<br>
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+A little poem from [A beginner’s guide to writing documentation](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/]):
+
+::: incremental
+- If people don’t know why your project exists, they won’t use it.
+- If people can’t figure out how to install your code, they won’t use it.
+- If people can’t figure out how to use your code, they won’t use it.
+
+:::
+
+
+:::
+
+::: {.column width="50%"}
+
+![](assets/images/doc.png){.absolute top="100" left="550" width="600" height="500"} 
+:::
+
+:::
+
+
+## FA<span style="color:red">IR</span>4RS: Document your code!{.smaller}
+
+<br>
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+A little poem from [A beginner’s guide to writing documentation](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/]):
+
+- If people don’t know why your project exists, they won’t use it.
+- If people can’t figure out how to install your code, they won’t use it.
+- If people can’t figure out how to use your code, they won’t use it.
+
+In practice, Github can host documentation as website (and it is very easy to do!) :arrow_right::arrow_right:
+
+:::
+
+::: {.column width="50%"}
+
+![](assets/images/doc.png){.absolute top="100" left="550" width="600" height="500"} 
+:::
+
+:::
+
+
+
+## FA<span style="color:red">IR</span>4RS: Licence your code!{.smaller}
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+You need to tell people how they can re-use your code.
+
+::: incremental
+- GPLv3 [The GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html): a free, copyleft license for software and other kinds of works. It is intended to guarantee your freedom to share and change all versions of a software to make sure it remains free software for all its users
+- [MIT licence](https://opensource.org/license/mit/):  is a permissive free software license. Without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software,
+:::
+
+
+:::
+
+::: {.column width="50%"}
+
+![](assets/images/licence.png){.absolute top="100" left="550" width="600" height="300"} <br><br><br><br><br><br><br><br><br><br>
+
+`The licence must be made clear in the code repository and in the documentation`
+:::
+
+:::
+
+
+## FA<span style="color:red">IR</span>4RS: Get credit for your work{.smaller}
+
+If people are using your software you should get credit for it. 
+
+:arrow_right: state how you want to be credited. You can add it in the documentation and/or create a citation.cff file that you can add with your code.
+
+![](assets/images/credit.png)
+
+
+
+
+## FA<span style="color:red">IR</span>4RS: Share it!{.smaller}
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+- Create a description of your code with metadata [data about your software].
+- Codemeta is a set of keywords used to describe code and how to structure them in a machine readable way<br>
+
+Examples:
+
+::: incremental
+- The citation.cff file contains metadata
+- Description keywords
+- Url to repository, to documentation
+- List of contributors and affiliations
+- etc…
+:::
+
+
+:::
+
+::: {.column width="50%"}
+
+![](assets/images/metadata.png){.absolute top="150" left="650" width="400" height="300"}
+:::
+
+:::
+
+## FA<span style="color:red">IR</span>4RS: Share it!{.smaller}
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+<br>
+In order to ensure that others can access and download your code, and that this access remains permanent over time, you should deposit your code in a repository. Two types:
+
+- General purpose
+- Domain Specific
+
+`Choose what makes more sense for you project!`
+
+:::
+
+::: {.column width="50%"}
+
+![](assets/images/zenodo.png){.absolute top="50" left="600" width="400" height="300"}
+![](assets/images/ASCL.png){.absolute top="400" left="580" width="500" height="150"}
+
+:::
+
+:::
+
+
+## FA<span style="color:red">IR</span>4RS: Share it!{.smaller}
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+<br>
+In order to ensure that others can access and download your code, and that this access remains permanent over time, you should deposit your code in a repository. Two types:
+
+- General purpose
+- Domain Specific
+
+`Choose what makes more sense for you project!`
+
+:::
+
+::: {.column width="50%"}
+
+![](assets/images/re3.png){.absolute top="80" left="600" width="400" height="200"}<br><br><br><br><br><br>
+
+`Numerous repositories give your content a DOI [Digital Object Identifier]`
+It means it can be cited in publication and other communications in order to open up your research to others and invite collaboration, as well as ensuring a constant link to your code. 
+:::
+
+:::
+
+## Acknowledgements & References {.smaller}
+
+* Thank you to Tamora James for leading the development of this training programme
+* Thank you to Christopher Wild, Ric Campbell, Farhad Allian, Daniel Brady, Kate O’neill, Joe Heffer, Jenni Adams, Neil Shephard, Sylvia Wittle and Arfon Smith for dedicating time to prepare all the material!
+
+**References**<br>
+* D. Wilby [Lunchbyte talk on the FAIR principles](https://www.davidwilby.dev/opensourcefair4rs/#/title-slide)<br>
+* T. James, FAIR for research software, Talk OpenFest 2024<br>
+* [https://book.the-turing-way.org/index.html](https://book.the-turing-way.org/index.html)<br>
+* B. Sirvey [Le grand homme qui apprend](https://medium.com/@borissirbey/le-grand-homme-qui-apprend-0bc4f4330d2d)<br>
+* Chue Hong, Neil P. et al, [FAIR principles for Research Software](https://doi.org/10.15497/RDA00068)<br>
+
+## Thank you!
+![](assets/images/Screenshot_website.png){fig-align="center"}
+
+
