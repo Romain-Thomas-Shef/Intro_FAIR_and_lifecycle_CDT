@@ -8,10 +8,35 @@ format:
 author: "<br>**Romain Thomas**<br>[Head of Research Software Engineering](https://rse.shef.ac.uk/),<br> The University of Sheffield<br>[rse.shef.ac.uk](https://rse.shef.ac.uk)"
 institute: "<br><strong>FAIR24RS training programme Kick-off Seminar</strong>, October 2024"
 date: ""
-footer: "**slides**: []() - **Source** [github.com](git@github.com:FAIR2-for-research-software/Better_software_for_better_research.git)"
+footer: "**Access** to the slides: [here](https://fair2-for-research-software.github.io/Better_software_for_better_research/#/what-if-a-generation-of-research-stop-doing-this) - **Source** [github.com repository](git@github.com:FAIR2-for-research-software/Better_software_for_better_research.git)"
 from: markdown+emoji
 css: style.css
 ---
+
+
+## During this talk:
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+
+- You can follow the slides :arrow_right::arrow_right: <br>
+- Ask questions in the google chat. Thanks to XXXX for the moderation. <br>
+- For later: Slides are available freely on github.
+:::
+
+
+
+::: {.column width="50%"}
+
+![](assets/images/FAIR_slides.png){fig-align="center"}
+
+:::
+
+:::
+
+
 
 
 ## Who are we? The teams behind the programme {.smaller}
@@ -28,7 +53,7 @@ css: style.css
 
 ::: {.column width="70%"}
 
-The Research Software Engineering team is composed of 11 engineers and **`collaborates with researcher across the University in building research software`**. Areas of expertise within the group include: code optimisation and performance, reproducibility and embedding good software engineering practice with a project or team, developing computational workflows, GPU computing and Deep Learning, data science/visualisation, High Performance Computing, general software development, development of impact case studies, consultancy, training and education delivery and support.
+The Research Software Engineering team is composed of 14 members and **`collaborates with researcher across the University in building research software`**. Areas of expertise within the group include: code optimisation and performance, reproducibility and embedding good software engineering practice with a project or team, developing computational workflows, GPU computing and Deep Learning, data science/visualisation, High Performance Computing, general software development, development of impact case studies, consultancy, training and education delivery and support.
 
 :::
 
@@ -309,12 +334,14 @@ A guideline for those wishing to enhance the reusability of their data holdings<
 <font size=4>[Barker *et al.* *Scientific Data* 9:622 (2022) "Introducing the FAIR Principles for research software" DOI: 10.1038/s41597-022-01710-x](https://dx.doi.org/10.1038/s41597-022-01710-x)</font>
 
 
-## University position about FAIR {.smaller}
+## University's position about FAIR {.smaller}
 
 <br>
-‘‘We aspire to open research culture that values a diverse range of contributions and adheres to the FAIR principles to enable the results of our research to be of maximum benefit to society (findable, accessible, interoperable and reusable), whilst also respecting circumstances that limit data sharing (for example, due to issues of privacy, non-consent, contractual agreements, legislation or practicality).’’ [University of Sheffield, Statement on Open Research](https://www.sheffield.ac.uk/openresearch/university-statement-open-research)
+‘‘We aspire to open research culture that values a diverse range of contributions and adheres to the FAIR principles to enable the results of our research to be of maximum benefit to society (findable, accessible, interoperable and reusable), whilst also respecting circumstances that limit data sharing (for example, due to issues of privacy, non-consent, contractual agreements, legislation or practicality).’’  
+[University of Sheffield, Statement on Open Research](https://www.sheffield.ac.uk/openresearch/university-statement-open-research)
 <br><br>
-‘‘All researchers, including postgraduate research students, have a personal responsibility to manage effectively the data they create….. All researchers are expected to document research data and software in line with the FAIR principles…..’’ [University of Sheffield, Policy on good research and innovation practices](https://www.sheffield.ac.uk/media/18953/download)
+‘‘All researchers, including postgraduate research students, have a personal responsibility to manage effectively the data they create….. All researchers are expected to document research data and software in line with the FAIR principles…..’’  
+[University of Sheffield, Policy on good research and innovation practices](https://www.sheffield.ac.uk/media/18953/download)
 
 
 ## Barriers to FAIR4RS {.smaller}
@@ -342,7 +369,7 @@ A guideline for those wishing to enhance the reusability of their data holdings<
 
 ::: {.column width="50%"}
 ![](assets/images/keynote1h.JPG)
-<font size=2>Better Science through Better Data 2017 (#scidata17) scribe images. <https://doi.org/10.6084/m9.figshare.5558653.v1></font>
+<font size=3>[Better Science through Better Data 2017) scribe images.](https://doi.org/10.6084/m9.figshare.5558653.v1)</font>
 
 :::
 
@@ -355,7 +382,7 @@ A guideline for those wishing to enhance the reusability of their data holdings<
 ::: {.column width="50%"}
 
 ![](assets/images/keynote1b.JPG)
-<font size=2>Better Science through Better Data 2017 (#scidata17) scribe images. <https://doi.org/10.6084/m9.figshare.5558653.v1></font>
+<font size=3>[Better Science through Better Data 2017) scribe images.](https://doi.org/10.6084/m9.figshare.5558653.v1)</font>
 
 :::
 
@@ -630,6 +657,151 @@ It means it can be cited in publication and other communications in order to ope
 :::
 
 :::
+
+## <span style="color:red">FA</span>IR4RS: Publish it!{.smaller}
+
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+<br><br>
+Multiple journals accept publication that present software:
+
+- Some are generalists (e.g. JOSS, JOSR)<br>
+- Some are domain specific (e.g. Astronomy and Computing)
+
+
+For example, in JOSS, the review process is fully public and transparent. It is done entirely on github. The reviewer will actually really look at the code and the documentation.
+:::
+
+::: {.column width="50%"}
+
+![](assets/images/JOSS.png){.absolute top="30" left="600" width="400" height="200"}
+
+![](assets/images/dfitspy_JOSS.png){.absolute top="250" left="550" width="500" height="500"}
+:::
+
+:::
+
+
+# The FAIR24RS training programme at the University
+
+
+## Lack of skills for developing software
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+<br><br>
+Do you feel that you have received sufficient training to develop reliable software?
+<br>
+<font size=3>Bob Turner & Paul Richmond, UoS, RSE team, [github.com/RSE-Sheffield/sssurvey](rse.shef.ac.uk/sssurvey). </font>
+:::
+
+::: {.column width="50%"}
+
+![](assets/images/survey.png){.absolute top="200" left="600" width="400" height="200"}
+
+
+:::
+
+:::
+
+
+## Programme Overview
+
+![](assets/images/Programme.png){fig-align="center"}
+
+
+
+## Software Lifecycle Planning
+
+## Version control
+
+## Code Design
+
+## Code Testing
+
+## Documentation
+
+## Reproducible Environments
+
+## Packaging
+
+## Software Papers
+
+## End-to-End demo
+
+
+
+## Programme Timeline
+
+![](assets/images/Programme_Timeline.png){fig-align="center"}
+
+## The FAIR Program: Material and dependencies
+
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+- <font size=5>All materials are designed using the same structure ([Software Carpentry workbench](https://carpentries.github.io/workbench/)) and are freely accessible on Github.
+
+- <span style="color:red">**You can select what lectures**</span> you will follow based on the skills you already have. Each lecture comes with a set of prerequisities that are clearly identified.</font>
+:::
+
+::: {.column width="50%"}
+
+![](assets/images/Example_course.png){.absolute top="100" left="600" width="450" height="500"}
+
+
+:::
+
+:::
+
+
+## The FAIR Program: Important Notes
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+<font size=5>
+
+<br>
+
+- Training are all <span style="color:red">Free of charge</span>.  
+- BUT! they all need registration and <span style="color:red">in-person sessions have limited places!</span>
+- They will all be available on mydevelopment platform. The first 3 sessions are already open for registration:
+  - [Software Management plan]() - Nov 8th
+  - [Git/Github zero to Hero]() - Nov 18th/19th
+  - [Code Design]() - Dec 12th/13th
+- January onward sessions will be available for booking around December.
+
+</font>
+:::
+
+::: {.column width="50%"}
+
+<font size=5>
+
+
+Direct links are also available on the RSE website: <br><br><br><br><br><br><br><br>
+
+![](assets/images/FAIR_rse_website.png){.absolute top="200" left="650" width="200" height="200"}
+
+Contacts:
+
+- Tamora James -RSE and FAIR24RS Programme Manager -[(t.d.james@sheffield.ac.uk)](mailto:t.d.james@sheffield.ac.uk)
+- Romain Thomas -Head of RSE-[(romain.thomas@sheffield.ac.uk)](mailto:romain.thomas@sheffield.ac.uk) - Head of RSE -
+
+</font>
+:::
+
+:::
+
 
 ## Acknowledgements & References {.smaller}
 

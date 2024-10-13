@@ -1,10 +1,17 @@
 [
   {
+    "objectID": "index.html#during-this-talk",
+    "href": "index.html#during-this-talk",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "During this talk:",
+    "text": "During this talk:\n\n\n\nYou can follow the slides ➡️➡️ \nAsk questions in the google chat. Thanks to XXXX for the moderation. \nFor later: Slides are available freely on github."
+  },
+  {
     "objectID": "index.html#who-are-we-the-teams-behind-the-programme",
     "href": "index.html#who-are-we-the-teams-behind-the-programme",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "Who are we? The teams behind the programme",
-    "text": "Who are we? The teams behind the programme\nResearch Software Engineering\n\n\n\n\n\n\n\n\nThe Research Software Engineering team is composed of 11 engineers and collaborates with researcher across the University in building research software. Areas of expertise within the group include: code optimisation and performance, reproducibility and embedding good software engineering practice with a project or team, developing computational workflows, GPU computing and Deep Learning, data science/visualisation, High Performance Computing, general software development, development of impact case studies, consultancy, training and education delivery and support."
+    "text": "Who are we? The teams behind the programme\nResearch Software Engineering\n\n\n\n\n\n\n\n\nThe Research Software Engineering team is composed of 14 members and collaborates with researcher across the University in building research software. Areas of expertise within the group include: code optimisation and performance, reproducibility and embedding good software engineering practice with a project or team, developing computational workflows, GPU computing and Deep Learning, data science/visualisation, High Performance Computing, general software development, development of impact case studies, consultancy, training and education delivery and support."
   },
   {
     "objectID": "index.html#who-are-we-the-teams-behind-the-programme-1",
@@ -112,25 +119,25 @@
     "text": "Reusable\nSoftware is both usable (can be executed) and reusable (can be understood, modified, built upon, or incorporated into other software).\n\n\n\nSoftware is described with a plurality of accurate and relevant attributes.\n\n\nSoftware is given a clear and accessible license.\n\n\nSoftware is associated with detailed provenance.\n\n\n\n\nSoftware includes qualified references to other software.\n\n\nSoftware meets domain-relevant community standards.\n\n\n\nBarker et al. Scientific Data 9:622 (2022) “Introducing the FAIR Principles for research software” DOI: 10.1038/s41597-022-01710-x"
   },
   {
-    "objectID": "index.html#university-position-about-fair",
-    "href": "index.html#university-position-about-fair",
+    "objectID": "index.html#universitys-position-about-fair",
+    "href": "index.html#universitys-position-about-fair",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
-    "section": "University position about FAIR",
-    "text": "University position about FAIR\n ‘‘We aspire to open research culture that values a diverse range of contributions and adheres to the FAIR principles to enable the results of our research to be of maximum benefit to society (findable, accessible, interoperable and reusable), whilst also respecting circumstances that limit data sharing (for example, due to issues of privacy, non-consent, contractual agreements, legislation or practicality).’’ University of Sheffield, Statement on Open Research  ‘‘All researchers, including postgraduate research students, have a personal responsibility to manage effectively the data they create….. All researchers are expected to document research data and software in line with the FAIR principles…..’’ University of Sheffield, Policy on good research and innovation practices"
+    "section": "University’s position about FAIR",
+    "text": "University’s position about FAIR\n ‘‘We aspire to open research culture that values a diverse range of contributions and adheres to the FAIR principles to enable the results of our research to be of maximum benefit to society (findable, accessible, interoperable and reusable), whilst also respecting circumstances that limit data sharing (for example, due to issues of privacy, non-consent, contractual agreements, legislation or practicality).’’\nUniversity of Sheffield, Statement on Open Research  ‘‘All researchers, including postgraduate research students, have a personal responsibility to manage effectively the data they create….. All researchers are expected to document research data and software in line with the FAIR principles…..’’\nUniversity of Sheffield, Policy on good research and innovation practices"
   },
   {
     "objectID": "index.html#barriers-to-fair4rs",
     "href": "index.html#barriers-to-fair4rs",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "Barriers to FAIR4RS",
-    "text": "Barriers to FAIR4RS\n\n\n\n\nfear of prejudice\n\nimportant to create a positive culture\n\nfear of ‘theft’\n\nlicensing and citation\n\ntechnical and time barriers\n\nsupport is available!\nonly need to learn once\n\nnon-commercialisable?\n\nopen source and commercialisation are compatible\ngreater impact through open source\n\n\n\n\n Better Science through Better Data 2017 (#scidata17) scribe images. https://doi.org/10.6084/m9.figshare.5558653.v1"
+    "text": "Barriers to FAIR4RS\n\n\n\n\nfear of prejudice\n\nimportant to create a positive culture\n\nfear of ‘theft’\n\nlicensing and citation\n\ntechnical and time barriers\n\nsupport is available!\nonly need to learn once\n\nnon-commercialisable?\n\nopen source and commercialisation are compatible\ngreater impact through open source\n\n\n\n\n Better Science through Better Data 2017) scribe images."
   },
   {
     "objectID": "index.html#benefits-of-fair4rs",
     "href": "index.html#benefits-of-fair4rs",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "Benefits of FAIR4RS",
-    "text": "Benefits of FAIR4RS\n\n\n Better Science through Better Data 2017 (#scidata17) scribe images. https://doi.org/10.6084/m9.figshare.5558653.v1\n\n\n\nAccelerate research\nIncrease transparency of research\nIncrease visibility, citation, reputation and impact\nReduce duplication of effort"
+    "text": "Benefits of FAIR4RS\n\n\n Better Science through Better Data 2017) scribe images.\n\n\n\nAccelerate research\nIncrease transparency of research\nIncrease visibility, citation, reputation and impact\nReduce duplication of effort"
   },
   {
     "objectID": "index.html#how-to-be-fair",
@@ -217,6 +224,111 @@
     "text": "FAIR4RS: Share it!\n\n\n In order to ensure that others can access and download your code, and that this access remains permanent over time, you should deposit your code in a repository. Two types:\n\nGeneral purpose\nDomain Specific\n\nChoose what makes more sense for you project!\n\n\nNumerous repositories give your content a DOI [Digital Object Identifier] It means it can be cited in publication and other communications in order to open up your research to others and invite collaboration, as well as ensuring a constant link to your code."
   },
   {
+    "objectID": "index.html#fair4rs-publish-it",
+    "href": "index.html#fair4rs-publish-it",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "FAIR4RS: Publish it!",
+    "text": "FAIR4RS: Publish it!\n\n\n Multiple journals accept publication that present software:\n\nSome are generalists (e.g. JOSS, JOSR)\nSome are domain specific (e.g. Astronomy and Computing)\n\nFor example, in JOSS, the review process is fully public and transparent. It is done entirely on github. The reviewer will actually really look at the code and the documentation."
+  },
+  {
+    "objectID": "index.html#lack-of-skills-for-developing-software",
+    "href": "index.html#lack-of-skills-for-developing-software",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "Lack of skills for developing software",
+    "text": "Lack of skills for developing software\n\n\n Do you feel that you have received sufficient training to develop reliable software?  Bob Turner & Paul Richmond, UoS, RSE team, github.com/RSE-Sheffield/sssurvey."
+  },
+  {
+    "objectID": "index.html#programme-overview",
+    "href": "index.html#programme-overview",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "Programme Overview",
+    "text": "Programme Overview"
+  },
+  {
+    "objectID": "index.html#software-lifecycle-planning",
+    "href": "index.html#software-lifecycle-planning",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "Software Lifecycle Planning",
+    "text": "Software Lifecycle Planning"
+  },
+  {
+    "objectID": "index.html#version-control",
+    "href": "index.html#version-control",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "Version control",
+    "text": "Version control"
+  },
+  {
+    "objectID": "index.html#code-design",
+    "href": "index.html#code-design",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "Code Design",
+    "text": "Code Design"
+  },
+  {
+    "objectID": "index.html#code-testing",
+    "href": "index.html#code-testing",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "Code Testing",
+    "text": "Code Testing"
+  },
+  {
+    "objectID": "index.html#documentation",
+    "href": "index.html#documentation",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "Documentation",
+    "text": "Documentation"
+  },
+  {
+    "objectID": "index.html#reproducible-environments",
+    "href": "index.html#reproducible-environments",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "Reproducible Environments",
+    "text": "Reproducible Environments"
+  },
+  {
+    "objectID": "index.html#packaging",
+    "href": "index.html#packaging",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "Packaging",
+    "text": "Packaging"
+  },
+  {
+    "objectID": "index.html#software-papers",
+    "href": "index.html#software-papers",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "Software Papers",
+    "text": "Software Papers"
+  },
+  {
+    "objectID": "index.html#end-to-end-demo",
+    "href": "index.html#end-to-end-demo",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "End-to-End demo",
+    "text": "End-to-End demo"
+  },
+  {
+    "objectID": "index.html#programme-timeline",
+    "href": "index.html#programme-timeline",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "Programme Timeline",
+    "text": "Programme Timeline"
+  },
+  {
+    "objectID": "index.html#the-fair-program-material-and-dependencies",
+    "href": "index.html#the-fair-program-material-and-dependencies",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "The FAIR Program: Material and dependencies",
+    "text": "The FAIR Program: Material and dependencies\n\n\n\nAll materials are designed using the same structure (Software Carpentry workbench) and are freely accessible on Github.\nYou can select what lectures you will follow based on the skills you already have. Each lecture comes with a set of prerequisities that are clearly identified."
+  },
+  {
+    "objectID": "index.html#the-fair-program-important-notes",
+    "href": "index.html#the-fair-program-important-notes",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "The FAIR Program: Important Notes",
+    "text": "The FAIR Program: Important Notes\n\n\n\n\n\nTraining are all Free of charge.\n\nBUT! they all need registration and in-person sessions have limited places!\nThey will all be available on mydevelopment platform. The first 3 sessions are already open for registration:\n\nSoftware Management plan - Nov 8th\nGit/Github zero to Hero - Nov 18th/19th\nCode Design - Dec 12th/13th\n\nJanuary onward sessions will be available for booking around December.\n\n\n\n\nDirect links are also available on the RSE website: \n\nContacts:\n\nTamora James -RSE and FAIR24RS Programme Manager -(t.d.james@sheffield.ac.uk)\nRomain Thomas -Head of RSE-(romain.thomas@sheffield.ac.uk) - Head of RSE -"
+  },
+  {
     "objectID": "index.html#acknowledgements-references",
     "href": "index.html#acknowledgements-references",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
@@ -228,6 +340,6 @@
     "href": "index.html#thank-you",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "Thank you!",
-    "text": "Thank you!\n\n\n\n\nslides:  - Source github.com"
+    "text": "Thank you!\n\n\n\n\nAccess to the slides: here - Source github.com repository"
   }
 ]
