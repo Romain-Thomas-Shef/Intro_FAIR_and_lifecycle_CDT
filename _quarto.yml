@@ -1,5 +1,5 @@
 project:
-  title: "index"
-
+  type: website
+  output-dir: docs
 
 

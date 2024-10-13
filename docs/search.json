@@ -1,0 +1,233 @@
+[
+  {
+    "objectID": "index.html#who-are-we-the-teams-behind-the-programme",
+    "href": "index.html#who-are-we-the-teams-behind-the-programme",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "Who are we? The teams behind the programme",
+    "text": "Who are we? The teams behind the programme\nResearch Software Engineering\n\n\n\n\n\n\n\n\nThe Research Software Engineering team is composed of 11 engineers and collaborates with researcher across the University in building research software. Areas of expertise within the group include: code optimisation and performance, reproducibility and embedding good software engineering practice with a project or team, developing computational workflows, GPU computing and Deep Learning, data science/visualisation, High Performance Computing, general software development, development of impact case studies, consultancy, training and education delivery and support."
+  },
+  {
+    "objectID": "index.html#who-are-we-the-teams-behind-the-programme-1",
+    "href": "index.html#who-are-we-the-teams-behind-the-programme-1",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "Who are we? The teams behind the programme",
+    "text": "Who are we? The teams behind the programme\nData Analytics Service\n\n\n\n\nThe Data Analytics Service (IT Services) supports research excellence at the University of Sheffield by bridging technical and analytical gaps through consultation, delivering training, and long-term collaboration with research teams. DAS supports researchers with reproducible data analysis, data visualisation, data engineering, machine learning, statistics, big data, research software, web design, and much more."
+  },
+  {
+    "objectID": "index.html#who-are-we-the-teams-behind-the-programme-2",
+    "href": "index.html#who-are-we-the-teams-behind-the-programme-2",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "Who are we? The teams behind the programme",
+    "text": "Who are we? The teams behind the programme\nLibrary’s Scholarly Communications Team\n\n\n\n\nThe Library’s Scholarly Communications Team provides specialist services to support researchers at the University of Sheffield. They offer guidance on making your research outputs open access, and give support on good practice in research data management, copyright and licensing as well as open research more broadly."
+  },
+  {
+    "objectID": "index.html#research-is-a-continuous-process",
+    "href": "index.html#research-is-a-continuous-process",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "Research is a continuous process",
+    "text": "Research is a continuous process\n\"The succession of researchers is comparable to a single person who learns indefinitely. Pascal, Pensee, French Mathematician, Physicist, inventor, philosopher and theologian [1623-1662] \n\n\nThat’s very old….\nBut still very valid…\nAnd becomes much more difficult with thecomplexity of modern research"
+  },
+  {
+    "objectID": "index.html#research-creates-knowledgethat-is-passed-down",
+    "href": "index.html#research-creates-knowledgethat-is-passed-down",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "Research creates knowledge…that is passed down",
+    "text": "Research creates knowledge…that is passed down\n\"Knowledge is humankind's most precious treasure. Everything that we accomplished has been done due to the capacity to create a transmissible heritage, which spares each new generation the task of starting from scratch.\" B. Sirbey\n\nIf we are doing the research you are doing today, it is thanks to the work of previous generations that created the knowledge that we are using know."
+  },
+  {
+    "objectID": "index.html#and-that-can-be-trusted",
+    "href": "index.html#and-that-can-be-trusted",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "And that can be trusted…",
+    "text": "And that can be trusted…\n\n\n\n\nResearch relies on the ability to trust what has been done before.\nThis means that a result has been tested, verified and could be reproduced ➡️➡️\nTools and methods used for a particular result are known and shared…\n\n\n\n  The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807"
+  },
+  {
+    "objectID": "index.html#what-if-a-generation-of-research-stop-doing-this",
+    "href": "index.html#what-if-a-generation-of-research-stop-doing-this",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "What if a generation of research stop doing this?",
+    "text": "What if a generation of research stop doing this?\n\n\n\n\nTools and methods used for a particular results are NOT known and shared…\nThis means that a result can NOT be tested and verified and can NOT be reproduced.\n➡️ It is harder to trust research\n\n\n\n  The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807"
+  },
+  {
+    "objectID": "index.html#are-we-far-from-reaching-this-situation",
+    "href": "index.html#are-we-far-from-reaching-this-situation",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "Are we far from reaching this situation?",
+    "text": "Are we far from reaching this situation?\n\n\n  Source: Baker M., Nature, 2016\n\n\n\n\n90% said there is a crisis!\nMore than 70% of researchers have tried and failed to reproduce another scientist’s experiments…\nAnd more than half have failed to reproduce their own experiments."
+  },
+  {
+    "objectID": "index.html#lets-improve",
+    "href": "index.html#lets-improve",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "Let’s improve!",
+    "text": "Let’s improve!\n\n\n  Source: www.aalto.fi\n\n\n\nThat’s a lot to consider…But don’t be scared!!!!\nYou do not need to learn everything at once… Start by one!"
+  },
+  {
+    "objectID": "index.html#lets-start-by-a-definition-what-is-a-software",
+    "href": "index.html#lets-start-by-a-definition-what-is-a-software",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "Let’s start by a definition: What is a software?",
+    "text": "Let’s start by a definition: What is a software?\n  “Source code files, algorithms, scripts, computational workflows and executables that were created during the research process or for a research purpose.”\nBarker et al. Scientific Data 9:622 (2022) “Introducing the FAIR Principles for research software”"
+  },
+  {
+    "objectID": "index.html#the-fair-principles",
+    "href": "index.html#the-fair-principles",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "The FAIR principles",
+    "text": "The FAIR principles\n\n\n The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807\n\n A guideline for those wishing to enhance the reusability of their data holdings –Wilkinson et al. (2016)–"
+  },
+  {
+    "objectID": "index.html#the-fair-principles-1",
+    "href": "index.html#the-fair-principles-1",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "The FAIR principles",
+    "text": "The FAIR principles\n“Many of the FAIR Guiding Principles can be directly applied to research software by treating software and data as similar digital research objects. However, specific characteristics of software — such as its executability, composite nature, and continuous evolution and versioning — make it necessary to revise and extend the principles.”\nChue Hong, Neil P. et al, FAIR Principles for Research Software (FAIR4RS Principles)"
+  },
+  {
+    "objectID": "index.html#findable",
+    "href": "index.html#findable",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "Findable",
+    "text": "Findable\nSoftware, and its associated metadata, is easy for both humans and machines to find.\n\n\n\nSoftware is assigned a globally unique and persistent identifier\n\n\nComponents of the software representing levels of granularity are assigned distinct identifiers.\n\n\nDifferent versions of the software are assigned distinct identifiers.\n\n\n\n\nSoftware is described with rich metadata.\n\n\nMetadata clearly and explicitly include the identifier of the software they describe.\n\n\nMetadata are FAIR, searchable and indexable.\n\n\n\nBarker et al. Scientific Data 9:622 (2022) “Introducing the FAIR Principles for research software” DOI: 10.1038/s41597-022-01710-x"
+  },
+  {
+    "objectID": "index.html#accessible",
+    "href": "index.html#accessible",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "Accessible",
+    "text": "Accessible\nSoftware, and its metadata, is retrievable via standardised protocols.\n\n\n\nSoftware is retrievable by its identifier using a standardised communications protocol.\n\n\nThe protocol is open, free, and universally implementable.\n\n\nThe protocol allows for an authentication and authorization procedure, where necessary.\n\n\n\n\nMetadata are accessible, even when the software is no longer available.\n\n\n\nBarker et al. Scientific Data 9:622 (2022) “Introducing the FAIR Principles for research software” DOI: 10.1038/s41597-022-01710-x"
+  },
+  {
+    "objectID": "index.html#interoperable",
+    "href": "index.html#interoperable",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "Interoperable",
+    "text": "Interoperable\nSoftware interoperates with other software by exchanging data and/or metadata, and/or through interaction via application programming interfaces (APIs), described through standards.\n\n\n\nSoftware reads, writes and exchanges data in a way that meets domain-relevant community standards.\n\n\nSoftware includes qualified references to other objects.\n\n\n\nBarker et al. Scientific Data 9:622 (2022) “Introducing the FAIR Principles for research software” DOI: 10.1038/s41597-022-01710-x"
+  },
+  {
+    "objectID": "index.html#reusable",
+    "href": "index.html#reusable",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "Reusable",
+    "text": "Reusable\nSoftware is both usable (can be executed) and reusable (can be understood, modified, built upon, or incorporated into other software).\n\n\n\nSoftware is described with a plurality of accurate and relevant attributes.\n\n\nSoftware is given a clear and accessible license.\n\n\nSoftware is associated with detailed provenance.\n\n\n\n\nSoftware includes qualified references to other software.\n\n\nSoftware meets domain-relevant community standards.\n\n\n\nBarker et al. Scientific Data 9:622 (2022) “Introducing the FAIR Principles for research software” DOI: 10.1038/s41597-022-01710-x"
+  },
+  {
+    "objectID": "index.html#university-position-about-fair",
+    "href": "index.html#university-position-about-fair",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "University position about FAIR",
+    "text": "University position about FAIR\n ‘‘We aspire to open research culture that values a diverse range of contributions and adheres to the FAIR principles to enable the results of our research to be of maximum benefit to society (findable, accessible, interoperable and reusable), whilst also respecting circumstances that limit data sharing (for example, due to issues of privacy, non-consent, contractual agreements, legislation or practicality).’’ University of Sheffield, Statement on Open Research  ‘‘All researchers, including postgraduate research students, have a personal responsibility to manage effectively the data they create….. All researchers are expected to document research data and software in line with the FAIR principles…..’’ University of Sheffield, Policy on good research and innovation practices"
+  },
+  {
+    "objectID": "index.html#barriers-to-fair4rs",
+    "href": "index.html#barriers-to-fair4rs",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "Barriers to FAIR4RS",
+    "text": "Barriers to FAIR4RS\n\n\n\n\nfear of prejudice\n\nimportant to create a positive culture\n\nfear of ‘theft’\n\nlicensing and citation\n\ntechnical and time barriers\n\nsupport is available!\nonly need to learn once\n\nnon-commercialisable?\n\nopen source and commercialisation are compatible\ngreater impact through open source\n\n\n\n\n Better Science through Better Data 2017 (#scidata17) scribe images. https://doi.org/10.6084/m9.figshare.5558653.v1"
+  },
+  {
+    "objectID": "index.html#benefits-of-fair4rs",
+    "href": "index.html#benefits-of-fair4rs",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "Benefits of FAIR4RS",
+    "text": "Benefits of FAIR4RS\n\n\n Better Science through Better Data 2017 (#scidata17) scribe images. https://doi.org/10.6084/m9.figshare.5558653.v1\n\n\n\nAccelerate research\nIncrease transparency of research\nIncrease visibility, citation, reputation and impact\nReduce duplication of effort"
+  },
+  {
+    "objectID": "index.html#how-to-be-fair",
+    "href": "index.html#how-to-be-fair",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "How to be FAIR?",
+    "text": "How to be FAIR?"
+  },
+  {
+    "objectID": "index.html#an-example-of-small-software",
+    "href": "index.html#an-example-of-small-software",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "An example of (small) software",
+    "text": "An example of (small) software"
+  },
+  {
+    "objectID": "index.html#fair4rs-think-about-how-you-are-coding",
+    "href": "index.html#fair4rs-think-about-how-you-are-coding",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "FAIR4RS: Think about how you are coding…",
+    "text": "FAIR4RS: Think about how you are coding…\n\n\n\n\nWhere possible, make your code modular.\nComment your code to make it as clear as possible.\nCreate and provide tests that others can use.\nFollow code standards"
+  },
+  {
+    "objectID": "index.html#fair4rs-be-open-even-inside-the-code",
+    "href": "index.html#fair4rs-be-open-even-inside-the-code",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "FAIR4RS: Be open even inside the code!",
+    "text": "FAIR4RS: Be open even inside the code!\n\n\n\n\nWhere possible and applicable, outputs (even between pieces of code) should use open and accessible data formats, which will help if other researchers only wish to use part of your code.\nBut do NOT reinvent the wheel! In some research fields data format are standardized ➡️ if you want people to use your code, use [your] community standards!"
+  },
+  {
+    "objectID": "index.html#fair4rs-version-your-code",
+    "href": "index.html#fair4rs-version-your-code",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "FAIR4RS: Version your code!",
+    "text": "FAIR4RS: Version your code!\n\n\n\n\nUsing version control software platform such as Github/GitLab allows you to keep track of the changes you make to your code\nYou can release version of your software/code/scripts directly from Github. While it should not be used a long term storage place, It gives a place where your code can be downloaded and where people can contribute.\n\n\n\n  https://www.sheffield.ac.uk/library/research-data-management/repositories"
+  },
+  {
+    "objectID": "index.html#fair4rs-document-your-code",
+    "href": "index.html#fair4rs-document-your-code",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "FAIR4RS: Document your code!",
+    "text": "FAIR4RS: Document your code!\n\n\n\nA little poem from A beginner’s guide to writing documentation:\n\n\nIf people don’t know why your project exists, they won’t use it.\nIf people can’t figure out how to install your code, they won’t use it.\nIf people can’t figure out how to use your code, they won’t use it."
+  },
+  {
+    "objectID": "index.html#fair4rs-document-your-code-1",
+    "href": "index.html#fair4rs-document-your-code-1",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "FAIR4RS: Document your code!",
+    "text": "FAIR4RS: Document your code!\n\n\n\nA little poem from A beginner’s guide to writing documentation:\n\nIf people don’t know why your project exists, they won’t use it.\nIf people can’t figure out how to install your code, they won’t use it.\nIf people can’t figure out how to use your code, they won’t use it.\n\nIn practice, Github can host documentation as website (and it is very easy to do!) ➡️➡️"
+  },
+  {
+    "objectID": "index.html#fair4rs-licence-your-code",
+    "href": "index.html#fair4rs-licence-your-code",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "FAIR4RS: Licence your code!",
+    "text": "FAIR4RS: Licence your code!\n\n\nYou need to tell people how they can re-use your code.\n\n\nGPLv3 The GNU General Public License: a free, copyleft license for software and other kinds of works. It is intended to guarantee your freedom to share and change all versions of a software to make sure it remains free software for all its users\nMIT licence: is a permissive free software license. Without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software,\n\n\n\n \nThe licence must be made clear in the code repository and in the documentation"
+  },
+  {
+    "objectID": "index.html#fair4rs-get-credit-for-your-work",
+    "href": "index.html#fair4rs-get-credit-for-your-work",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "FAIR4RS: Get credit for your work",
+    "text": "FAIR4RS: Get credit for your work\nIf people are using your software you should get credit for it.\n➡️ state how you want to be credited. You can add it in the documentation and/or create a citation.cff file that you can add with your code."
+  },
+  {
+    "objectID": "index.html#fair4rs-share-it",
+    "href": "index.html#fair4rs-share-it",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "FAIR4RS: Share it!",
+    "text": "FAIR4RS: Share it!\n\n\n\nCreate a description of your code with metadata [data about your software].\nCodemeta is a set of keywords used to describe code and how to structure them in a machine readable way\n\nExamples:\n\n\nThe citation.cff file contains metadata\nDescription keywords\nUrl to repository, to documentation\nList of contributors and affiliations\netc…"
+  },
+  {
+    "objectID": "index.html#fair4rs-share-it-1",
+    "href": "index.html#fair4rs-share-it-1",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "FAIR4RS: Share it!",
+    "text": "FAIR4RS: Share it!\n\n\n In order to ensure that others can access and download your code, and that this access remains permanent over time, you should deposit your code in a repository. Two types:\n\nGeneral purpose\nDomain Specific\n\nChoose what makes more sense for you project!"
+  },
+  {
+    "objectID": "index.html#fair4rs-share-it-2",
+    "href": "index.html#fair4rs-share-it-2",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "FAIR4RS: Share it!",
+    "text": "FAIR4RS: Share it!\n\n\n In order to ensure that others can access and download your code, and that this access remains permanent over time, you should deposit your code in a repository. Two types:\n\nGeneral purpose\nDomain Specific\n\nChoose what makes more sense for you project!\n\n\nNumerous repositories give your content a DOI [Digital Object Identifier] It means it can be cited in publication and other communications in order to open up your research to others and invite collaboration, as well as ensuring a constant link to your code."
+  },
+  {
+    "objectID": "index.html#acknowledgements-references",
+    "href": "index.html#acknowledgements-references",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "Acknowledgements & References",
+    "text": "Acknowledgements & References\n\nThank you to Tamora James for leading the development of this training programme\nThank you to Christopher Wild, Ric Campbell, Farhad Allian, Daniel Brady, Kate O’neill, Joe Heffer, Jenni Adams, Neil Shephard, Sylvia Wittle and Arfon Smith for dedicating time to prepare all the material!\n\nReferences * D. Wilby Lunchbyte talk on the FAIR principles * T. James, FAIR for research software, Talk OpenFest 2024 * https://book.the-turing-way.org/index.html * B. Sirvey Le grand homme qui apprend * Chue Hong, Neil P. et al, FAIR principles for Research Software"
+  },
+  {
+    "objectID": "index.html#thank-you",
+    "href": "index.html#thank-you",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "Thank you!",
+    "text": "Thank you!\n\n\n\n\nslides:  - Source github.com"
+  }
+]
