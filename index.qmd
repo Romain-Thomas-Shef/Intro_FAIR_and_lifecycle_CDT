@@ -18,7 +18,7 @@ css: style.css
 
 ::: {.columns}
 
-::: {.column width="50%"}
+::: {.column width="60%"}
 
 
 - You can follow the slides :arrow_right::arrow_right: <br>
@@ -29,7 +29,7 @@ css: style.css
 
 
 
-::: {.column width="50%"}
+::: {.column width="40%"}
 
 ![](assets/images/FAIR_slides.png){fig-align="center"}
 
