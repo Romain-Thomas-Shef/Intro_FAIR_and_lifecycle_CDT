@@ -23,7 +23,8 @@ css: style.css
 
 - You can follow the slides :arrow_right::arrow_right: <br>
 - Ask questions in the google chat. Thanks to XXXX for the moderation. <br>
-- For later: Slides are available freely on github.
+- Slides are available freely on github.
+- Every [blue]() text is a hyperlink
 :::
 
 
@@ -107,7 +108,7 @@ The Library's Scholarly Communications Team provides specialist services to supp
 ## Research is a continuous process 
 
 `"The succession of researchers is comparable to a single person who learns indefinitely.`<br>
-*Pascal, Pensee, French Mathematician, Physicist, inventor, philosopher and theologian  [1623-1662]*
+<font size="4">*Pascal, Pensee, French Mathematician, Physicist, inventor, philosopher and theologian  [1623-1662]*</font>
 ![](assets/images/pascal.webp){.absolute top="250" left="800" width="300" height="350"}
 
 ::: incremental
@@ -344,7 +345,7 @@ A guideline for those wishing to enhance the reusability of their data holdings<
 [University of Sheffield, Policy on good research and innovation practices](https://www.sheffield.ac.uk/media/18953/download)
 
 
-## Barriers to FAIR4RS {.smaller}
+## Barriers to FAIR<sup>2</sup>4RS {.smaller}
 
 ::: {.columns}
 
@@ -375,7 +376,7 @@ A guideline for those wishing to enhance the reusability of their data holdings<
 
 :::
 
-## Benefits of FAIR4RS
+## Benefits of FAIR<sup>2</sup>4RS
 
 ::: {.columns}
 
@@ -507,7 +508,7 @@ A little poem from [A beginner’s guide to writing documentation](https://www.w
 
 ::: {.column width="50%"}
 
-![](assets/images/doc.png){.absolute top="100" left="550" width="600" height="500"} 
+![](assets/images/doc.png){.absolute top="100" left="550" width="500" height="500"} 
 :::
 
 :::
@@ -533,7 +534,7 @@ In practice, Github can host documentation as website (and it is very easy to do
 
 ::: {.column width="50%"}
 
-![](assets/images/doc.png){.absolute top="100" left="550" width="600" height="500"} 
+![](assets/images/doc.png){.absolute top="100" left="550" width="500" height="500"} 
 :::
 
 :::
@@ -558,7 +559,7 @@ You need to tell people how they can re-use your code.
 
 ::: {.column width="50%"}
 
-![](assets/images/licence.png){.absolute top="100" left="550" width="600" height="300"} <br><br><br><br><br><br><br><br><br><br>
+![](assets/images/licence.png){.absolute top="100" left="550" width="500" height="280"} <br><br><br><br><br><br><br><br><br><br>
 
 `The licence must be made clear in the code repository and in the documentation`
 :::
@@ -685,7 +686,7 @@ For example, in JOSS, the review process is fully public and transparent. It is 
 :::
 
 
-# The FAIR24RS training programme at the University
+# The FAIR<sup>2</sup>4RS training programme at the University
 
 
 ## Lack of skills for developing software
@@ -710,7 +711,7 @@ Do you feel that you have received sufficient training to develop reliable softw
 :::
 
 
-## Programme Overview
+## The FAIR<sup>2</sup>4RS Programme: Overview
 
 ![](assets/images/Programme.png){fig-align="center"}
 
@@ -736,20 +737,26 @@ Do you feel that you have received sufficient training to develop reliable softw
 
 
 
-## Programme Timeline
+## The FAIR<sup>2</sup>4RS Programme: Timeline
 
 ![](assets/images/Programme_Timeline.png){fig-align="center"}
 
-## The FAIR Program: Material and dependencies
+## The FAIR<sup>2</sup>4RS Programme: Material and dependencies
 
 
 ::: {.columns}
 
 ::: {.column width="50%"}
 
-- <font size=5>All materials are designed using the same structure ([Software Carpentry workbench](https://carpentries.github.io/workbench/)) and are freely accessible on Github.
+<font size=5>
 
-- <span style="color:red">**You can select what lectures**</span> you will follow based on the skills you already have. Each lecture comes with a set of prerequisities that are clearly identified.</font>
+- All materials are designed using the same structure ([Software Carpentry workbench](https://carpentries.github.io/workbench/)) and are freely accessible on Github.
+
+- <span style="color:red">**You can select what lectures**</span> you will follow based on the skills you already have. Each lecture comes with a set of prerequisities that are clearly identified.
+
+- A feedback form will be provided after each lecture for feedback.
+
+</font>
 :::
 
 ::: {.column width="50%"}
@@ -762,15 +769,13 @@ Do you feel that you have received sufficient training to develop reliable softw
 :::
 
 
-## The FAIR Program: Important Notes
+## The FAIR<sup>2</sup>4RS Programme: Important Notes
 
 ::: {.columns}
 
 ::: {.column width="50%"}
 
 <font size=5>
-
-<br>
 
 - Training are all <span style="color:red">Free of charge</span>.  
 - BUT! they all need registration and <span style="color:red">in-person sessions have limited places!</span>
@@ -787,14 +792,13 @@ Do you feel that you have received sufficient training to develop reliable softw
 
 <font size=5>
 
-
 Direct links are also available on the RSE website: <br><br><br><br><br><br><br><br>
 
-![](assets/images/FAIR_rse_website.png){.absolute top="200" left="650" width="200" height="200"}
+![](assets/images/FAIR_rse_website.png){.absolute top="280" left="650" width="200" height="200"}
 
 Contacts:
 
-- Tamora James -RSE and FAIR24RS Programme Manager -[(t.d.james@sheffield.ac.uk)](mailto:t.d.james@sheffield.ac.uk)
+- Tamora James -RSE and FAIR<sup>2</sup>4RS Programme Manager -[(t.d.james@sheffield.ac.uk)](mailto:t.d.james@sheffield.ac.uk)
 - Romain Thomas -Head of RSE-[(romain.thomas@sheffield.ac.uk)](mailto:romain.thomas@sheffield.ac.uk) - Head of RSE -
 
 </font>

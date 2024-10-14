@@ -4,7 +4,7 @@
     "href": "index.html#during-this-talk",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "During this talk:",
-    "text": "During this talk:\n\n\n\nYou can follow the slides ➡️➡️ \nAsk questions in the google chat. Thanks to XXXX for the moderation. \nFor later: Slides are available freely on github."
+    "text": "During this talk:\n\n\n\nYou can follow the slides ➡️➡️ \nAsk questions in the google chat. Thanks to XXXX for the moderation. \nSlides are available freely on github.\nEvery blue text is a hyperlink"
   },
   {
     "objectID": "index.html#who-are-we-the-teams-behind-the-programme",
@@ -126,18 +126,18 @@
     "text": "University’s position about FAIR\n ‘‘We aspire to open research culture that values a diverse range of contributions and adheres to the FAIR principles to enable the results of our research to be of maximum benefit to society (findable, accessible, interoperable and reusable), whilst also respecting circumstances that limit data sharing (for example, due to issues of privacy, non-consent, contractual agreements, legislation or practicality).’’\nUniversity of Sheffield, Statement on Open Research  ‘‘All researchers, including postgraduate research students, have a personal responsibility to manage effectively the data they create….. All researchers are expected to document research data and software in line with the FAIR principles…..’’\nUniversity of Sheffield, Policy on good research and innovation practices"
   },
   {
-    "objectID": "index.html#barriers-to-fair4rs",
-    "href": "index.html#barriers-to-fair4rs",
+    "objectID": "index.html#barriers-to-fair24rs",
+    "href": "index.html#barriers-to-fair24rs",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
-    "section": "Barriers to FAIR4RS",
-    "text": "Barriers to FAIR4RS\n\n\n\n\nfear of prejudice\n\nimportant to create a positive culture\n\nfear of ‘theft’\n\nlicensing and citation\n\ntechnical and time barriers\n\nsupport is available!\nonly need to learn once\n\nnon-commercialisable?\n\nopen source and commercialisation are compatible\ngreater impact through open source\n\n\n\n\n Better Science through Better Data 2017) scribe images."
+    "section": "Barriers to FAIR24RS",
+    "text": "Barriers to FAIR24RS\n\n\n\n\nfear of prejudice\n\nimportant to create a positive culture\n\nfear of ‘theft’\n\nlicensing and citation\n\ntechnical and time barriers\n\nsupport is available!\nonly need to learn once\n\nnon-commercialisable?\n\nopen source and commercialisation are compatible\ngreater impact through open source\n\n\n\n\n Better Science through Better Data 2017) scribe images."
   },
   {
-    "objectID": "index.html#benefits-of-fair4rs",
-    "href": "index.html#benefits-of-fair4rs",
+    "objectID": "index.html#benefits-of-fair24rs",
+    "href": "index.html#benefits-of-fair24rs",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
-    "section": "Benefits of FAIR4RS",
-    "text": "Benefits of FAIR4RS\n\n\n Better Science through Better Data 2017) scribe images.\n\n\n\nAccelerate research\nIncrease transparency of research\nIncrease visibility, citation, reputation and impact\nReduce duplication of effort"
+    "section": "Benefits of FAIR24RS",
+    "text": "Benefits of FAIR24RS\n\n\n Better Science through Better Data 2017) scribe images.\n\n\n\nAccelerate research\nIncrease transparency of research\nIncrease visibility, citation, reputation and impact\nReduce duplication of effort"
   },
   {
     "objectID": "index.html#how-to-be-fair",
@@ -238,11 +238,11 @@
     "text": "Lack of skills for developing software\n\n\n Do you feel that you have received sufficient training to develop reliable software?  Bob Turner & Paul Richmond, UoS, RSE team, github.com/RSE-Sheffield/sssurvey."
   },
   {
-    "objectID": "index.html#programme-overview",
-    "href": "index.html#programme-overview",
+    "objectID": "index.html#the-fair24rs-programme-overview",
+    "href": "index.html#the-fair24rs-programme-overview",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
-    "section": "Programme Overview",
-    "text": "Programme Overview"
+    "section": "The FAIR24RS Programme: Overview",
+    "text": "The FAIR24RS Programme: Overview"
   },
   {
     "objectID": "index.html#software-lifecycle-planning",
@@ -308,25 +308,25 @@
     "text": "End-to-End demo"
   },
   {
-    "objectID": "index.html#programme-timeline",
-    "href": "index.html#programme-timeline",
+    "objectID": "index.html#the-fair24rs-programme-timeline",
+    "href": "index.html#the-fair24rs-programme-timeline",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
-    "section": "Programme Timeline",
-    "text": "Programme Timeline"
+    "section": "The FAIR24RS Programme: Timeline",
+    "text": "The FAIR24RS Programme: Timeline"
   },
   {
-    "objectID": "index.html#the-fair-program-material-and-dependencies",
-    "href": "index.html#the-fair-program-material-and-dependencies",
+    "objectID": "index.html#the-fair24rs-programme-material-and-dependencies",
+    "href": "index.html#the-fair24rs-programme-material-and-dependencies",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
-    "section": "The FAIR Program: Material and dependencies",
-    "text": "The FAIR Program: Material and dependencies\n\n\n\nAll materials are designed using the same structure (Software Carpentry workbench) and are freely accessible on Github.\nYou can select what lectures you will follow based on the skills you already have. Each lecture comes with a set of prerequisities that are clearly identified."
+    "section": "The FAIR24RS Programme: Material and dependencies",
+    "text": "The FAIR24RS Programme: Material and dependencies\n\n\n\n\nAll materials are designed using the same structure (Software Carpentry workbench) and are freely accessible on Github.\nYou can select what lectures you will follow based on the skills you already have. Each lecture comes with a set of prerequisities that are clearly identified.\nA feedback form will be provided after each lecture for feedback."
   },
   {
-    "objectID": "index.html#the-fair-program-important-notes",
-    "href": "index.html#the-fair-program-important-notes",
+    "objectID": "index.html#the-fair24rs-programme-important-notes",
+    "href": "index.html#the-fair24rs-programme-important-notes",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
-    "section": "The FAIR Program: Important Notes",
-    "text": "The FAIR Program: Important Notes\n\n\n\n\n\nTraining are all Free of charge.\n\nBUT! they all need registration and in-person sessions have limited places!\nThey will all be available on mydevelopment platform. The first 3 sessions are already open for registration:\n\nSoftware Management plan - Nov 8th\nGit/Github zero to Hero - Nov 18th/19th\nCode Design - Dec 12th/13th\n\nJanuary onward sessions will be available for booking around December.\n\n\n\n\nDirect links are also available on the RSE website: \n\nContacts:\n\nTamora James -RSE and FAIR24RS Programme Manager -(t.d.james@sheffield.ac.uk)\nRomain Thomas -Head of RSE-(romain.thomas@sheffield.ac.uk) - Head of RSE -"
+    "section": "The FAIR24RS Programme: Important Notes",
+    "text": "The FAIR24RS Programme: Important Notes\n\n\n\n\nTraining are all Free of charge.\n\nBUT! they all need registration and in-person sessions have limited places!\nThey will all be available on mydevelopment platform. The first 3 sessions are already open for registration:\n\nSoftware Management plan - Nov 8th\nGit/Github zero to Hero - Nov 18th/19th\nCode Design - Dec 12th/13th\n\nJanuary onward sessions will be available for booking around December.\n\n\n\n\nDirect links are also available on the RSE website: \n\nContacts:\n\nTamora James -RSE and FAIR24RS Programme Manager -(t.d.james@sheffield.ac.uk)\nRomain Thomas -Head of RSE-(romain.thomas@sheffield.ac.uk) - Head of RSE -"
   },
   {
     "objectID": "index.html#acknowledgements-references",
