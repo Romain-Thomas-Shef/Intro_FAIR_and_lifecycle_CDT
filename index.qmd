@@ -54,7 +54,7 @@ css: style.css
 
 ::: {.column width="70%"}
 
-The Research Software Engineering team is composed of 14 members and **`collaborates with researcher across the University in building research software`**. Areas of expertise within the group include: code optimisation and performance, reproducibility and embedding good software engineering practice with a project or team, developing computational workflows, GPU computing and Deep Learning, data science/visualisation, High Performance Computing, general software development, development of impact case studies, consultancy, training and education delivery and support.
+The Research Software Engineering team is composed of 14 members and <span style="color:red">**collaborates with researcher across the University in building research software**</span>. Areas of expertise within the group include: general software development, code optimisation and performance, reproducibility, GPU computing and Deep Learning, High Performance Computing, training, etc...
 
 :::
 
@@ -73,7 +73,7 @@ The Research Software Engineering team is composed of 14 members and **`collabor
 
 ::: {.column width="70%"}
 
-The Data Analytics Service (IT Services) supports research excellence at the University of Sheffield by bridging technical and analytical gaps through consultation, delivering training, and long-term collaboration with research teams. `DAS supports researchers with reproducible data analysis, data visualisation, data engineering, machine learning, statistics, big data, research software, web design, and much more.`
+The Data Analytics Service (IT Services) supports research excellence at the University of Sheffield by bridging technical and analytical gaps through consultation, delivering training, and long-term collaboration with research teams. <span style="color:red">DAS supports researchers with reproducible data analysis, data visualisation, data engineering, machine learning, statistics, big data, research software, web design, and much more.</span>
 
 
 :::
@@ -88,11 +88,14 @@ The Data Analytics Service (IT Services) supports research excellence at the Uni
 
 ::: {.column width="30%"}
 
+![](assets/images/Library_logo_violet_white.png){.absolute top="300" left="10" width="300" height="60"}
+
+
 :::
 
 ::: {.column width="70%"}
 
-The Library's Scholarly Communications Team provides specialist services to support researchers at the University of Sheffield. They offer guidance on making your research outputs open access, and give `support on good practice in research data management, copyright and licensing as well as open research more broadly.`
+The Library's Scholarly Communications Team provides specialist services to support researchers at the University of Sheffield. They offer guidance on making your research outputs open access, and give <span style="color:red">support on good practice in research data management, copyright and licensing as well as open research more broadly.</span>
 
 :::
 
@@ -107,7 +110,7 @@ The Library's Scholarly Communications Team provides specialist services to supp
 
 ## Research is a continuous process 
 
-`"The succession of researchers is comparable to a single person who learns indefinitely.`<br>
+<span style="color:red">"The succession of researchers is comparable to a single person who learns indefinitely.</span><br>
 <font size="4">*Pascal, Pensee, French Mathematician, Physicist, inventor, philosopher and theologian  [1623-1662]*</font>
 ![](assets/images/pascal.webp){.absolute top="250" left="800" width="300" height="350"}
 
@@ -119,7 +122,7 @@ The Library's Scholarly Communications Team provides specialist services to supp
 
 ## Research creates knowledge…that is passed down{.smaller}
 
-`"Knowledge is humankind's most precious treasure. Everything that we accomplished has been done due to the capacity to create a transmissible heritage, which spares each new generation the task of starting from scratch."` B. Sirbey<br><br><br>
+<span style="color:red">"Knowledge is humankind's most precious treasure. Everything that we accomplished has been done due to the capacity to create a transmissible heritage, which spares each new generation the task of starting from scratch."<span style="color:red"> B. Sirbey<br><br><br>
 
 > If we are doing the research you are doing today, it is thanks to the work of previous generations that created the knowledge that we are using know.
 
@@ -131,7 +134,7 @@ The Library's Scholarly Communications Team provides specialist services to supp
 
 ::: incremental
 -   Research relies on the ability to trust what has been done before. 
--   This means that a result has been tested, verified and could be `reproduced` :arrow_right::arrow_right:
+-   This means that a result has been tested, verified and could be <span style="color:red">reproduced</span> :arrow_right::arrow_right:
 -   Tools and methods used for a particular result are known and shared…
 :::
 
@@ -153,8 +156,8 @@ The Library's Scholarly Communications Team provides specialist services to supp
 ::: {.column width="60%"}
 
 ::: incremental
--   Tools and methods used for a particular results are `NOT` known and shared…
--   This means that a result can `NOT` be tested and verified and can `NOT` be reproduced.
+-   Tools and methods used for a particular results are <span style="color:red">NOT</span> known and shared…
+-   This means that a result can <span style="color:red">NOT</span> be tested and verified and can <span style="color:red">NOT</span> be reproduced.
 -   :arrow_right: It is harder to trust research
 :::
 
@@ -183,12 +186,14 @@ The Library's Scholarly Communications Team provides specialist services to supp
 
 ::: {.column width="60%"}
 
+<br>
+
 ::: {.r-stack}
 
 ::: incremental
 -   90% said there is a crisis!
 -   More than 70% of researchers have tried and failed to reproduce another scientist's experiments…
--   `And more than half have failed to reproduce their own experiments.`
+-   <span style="color:red">And more than half have failed to reproduce their own experiments.</span>
 :::
 
 ![](assets/images/Joey.png){.fragment width="600" height="300"}
@@ -218,7 +223,7 @@ The Library's Scholarly Communications Team provides specialist services to supp
 
 ::: incremental
 -   That’s a lot to consider…But don’t be scared!!!!
--   You do not need to learn everything at once… `Start by one!`
+-   You do not need to learn everything at once… <span style="color:red">Start by one</span>!
 :::
 
 :::
@@ -258,7 +263,8 @@ A guideline for those wishing to enhance the reusability of their data holdings<
 
 ## The FAIR principles
 
-“Many of the FAIR Guiding Principles can be directly applied to research software by treating software and data as similar digital research objects. However, `specific characteristics of software — such as its executability, composite nature, and continuous evolution and versioning` — make it necessary to revise and extend the principles.”
+<br>
+“Many of the FAIR Guiding Principles can be directly applied to research software by treating software and data as similar digital research objects. However, <span style="color:red">specific characteristics of software — such as its executability, composite nature, and continuous evolution and versioning</span> — make it necessary to revise and extend the principles.”
 
 <font size="4">[Chue Hong, Neil P. et al, FAIR Principles for Research Software (FAIR4RS Principles)](https://doi.org/10.15497/RDA00068)</font>
 
@@ -445,7 +451,7 @@ A guideline for those wishing to enhance the reusability of their data holdings<
 
 ::: incremental
 -  Where possible and applicable, outputs (even between pieces of code) should use open and accessible data formats, which will help if other researchers only wish to use part of your code.
--  `But do NOT reinvent the wheel!` In some research fields data format are standardized :arrow_right: if you want people to use your code, use [your] community standards!
+-  <span style="color:red">But do NOT reinvent the wheel!</span> In some research fields data format are standardized :arrow_right: if you want people to use your code, use [your] community standards!
 
 :::
 
@@ -561,7 +567,7 @@ You need to tell people how they can re-use your code.
 
 ![](assets/images/licence.png){.absolute top="100" left="550" width="500" height="280"} <br><br><br><br><br><br><br><br><br><br>
 
-`The licence must be made clear in the code repository and in the documentation`
+<span style="color:red">The licence must be made clear in the code repository and in the documentation.</span>
 :::
 
 :::
@@ -619,7 +625,7 @@ In order to ensure that others can access and download your code, and that this 
 - General purpose
 - Domain Specific
 
-`Choose what makes more sense for you project!`
+ <span style="color:red"> Choose what makes more sense for you project! </span>
 
 :::
 
@@ -645,7 +651,7 @@ In order to ensure that others can access and download your code, and that this 
 - General purpose
 - Domain Specific
 
-`Choose what makes more sense for you project!`
+ <span style="color:red">Choose what makes more sense for you project!</span>
 
 :::
 
@@ -653,7 +659,7 @@ In order to ensure that others can access and download your code, and that this 
 
 ![](assets/images/re3.png){.absolute top="80" left="600" width="400" height="200"}<br><br><br><br><br><br>
 
-`Numerous repositories give your content a DOI [Digital Object Identifier]`
+ <span style="color:red">Numerous repositories give your content a DOI [Digital Object Identifier]</span>
 It means it can be cited in publication and other communications in order to open up your research to others and invite collaboration, as well as ensuring a constant link to your code. 
 :::
 

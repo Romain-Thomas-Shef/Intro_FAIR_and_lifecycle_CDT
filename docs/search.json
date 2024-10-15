@@ -11,7 +11,7 @@
     "href": "index.html#who-are-we-the-teams-behind-the-programme",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "Who are we? The teams behind the programme",
-    "text": "Who are we? The teams behind the programme\nResearch Software Engineering\n\n\n\n\n\n\n\n\nThe Research Software Engineering team is composed of 14 members and collaborates with researcher across the University in building research software. Areas of expertise within the group include: code optimisation and performance, reproducibility and embedding good software engineering practice with a project or team, developing computational workflows, GPU computing and Deep Learning, data science/visualisation, High Performance Computing, general software development, development of impact case studies, consultancy, training and education delivery and support."
+    "text": "Who are we? The teams behind the programme\nResearch Software Engineering\n\n\n\n\n\n\n\n\nThe Research Software Engineering team is composed of 14 members and collaborates with researcher across the University in building research software. Areas of expertise within the group include: general software development, code optimisation and performance, reproducibility, GPU computing and Deep Learning, High Performance Computing, training, etc…"
   },
   {
     "objectID": "index.html#who-are-we-the-teams-behind-the-programme-1",
@@ -32,14 +32,14 @@
     "href": "index.html#research-is-a-continuous-process",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "Research is a continuous process",
-    "text": "Research is a continuous process\n\"The succession of researchers is comparable to a single person who learns indefinitely. Pascal, Pensee, French Mathematician, Physicist, inventor, philosopher and theologian [1623-1662] \n\n\nThat’s very old….\nBut still very valid…\nAnd becomes much more difficult with thecomplexity of modern research"
+    "text": "Research is a continuous process\n“The succession of researchers is comparable to a single person who learns indefinitely. Pascal, Pensee, French Mathematician, Physicist, inventor, philosopher and theologian [1623-1662] \n\n\nThat’s very old….\nBut still very valid…\nAnd becomes much more difficult with thecomplexity of modern research"
   },
   {
     "objectID": "index.html#research-creates-knowledgethat-is-passed-down",
     "href": "index.html#research-creates-knowledgethat-is-passed-down",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "Research creates knowledge…that is passed down",
-    "text": "Research creates knowledge…that is passed down\n\"Knowledge is humankind's most precious treasure. Everything that we accomplished has been done due to the capacity to create a transmissible heritage, which spares each new generation the task of starting from scratch.\" B. Sirbey\n\nIf we are doing the research you are doing today, it is thanks to the work of previous generations that created the knowledge that we are using know."
+    "text": "Research creates knowledge…that is passed down\n“Knowledge is humankind’s most precious treasure. Everything that we accomplished has been done due to the capacity to create a transmissible heritage, which spares each new generation the task of starting from scratch.” B. Sirbey\n\nIf we are doing the research you are doing today, it is thanks to the work of previous generations that created the knowledge that we are using know."
   },
   {
     "objectID": "index.html#and-that-can-be-trusted",
@@ -60,7 +60,7 @@
     "href": "index.html#are-we-far-from-reaching-this-situation",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "Are we far from reaching this situation?",
-    "text": "Are we far from reaching this situation?\n\n\n  Source: Baker M., Nature, 2016\n\n\n\n\n90% said there is a crisis!\nMore than 70% of researchers have tried and failed to reproduce another scientist’s experiments…\nAnd more than half have failed to reproduce their own experiments."
+    "text": "Are we far from reaching this situation?\n\n\n  Source: Baker M., Nature, 2016\n\n\n\n\n\n90% said there is a crisis!\nMore than 70% of researchers have tried and failed to reproduce another scientist’s experiments…\nAnd more than half have failed to reproduce their own experiments."
   },
   {
     "objectID": "index.html#lets-improve",
@@ -88,7 +88,7 @@
     "href": "index.html#the-fair-principles-1",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "The FAIR principles",
-    "text": "The FAIR principles\n“Many of the FAIR Guiding Principles can be directly applied to research software by treating software and data as similar digital research objects. However, specific characteristics of software — such as its executability, composite nature, and continuous evolution and versioning — make it necessary to revise and extend the principles.”\nChue Hong, Neil P. et al, FAIR Principles for Research Software (FAIR4RS Principles)"
+    "text": "The FAIR principles\n “Many of the FAIR Guiding Principles can be directly applied to research software by treating software and data as similar digital research objects. However, specific characteristics of software — such as its executability, composite nature, and continuous evolution and versioning — make it necessary to revise and extend the principles.”\nChue Hong, Neil P. et al, FAIR Principles for Research Software (FAIR4RS Principles)"
   },
   {
     "objectID": "index.html#findable",
@@ -193,7 +193,7 @@
     "href": "index.html#fair4rs-licence-your-code",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "FAIR4RS: Licence your code!",
-    "text": "FAIR4RS: Licence your code!\n\n\nYou need to tell people how they can re-use your code.\n\n\nGPLv3 The GNU General Public License: a free, copyleft license for software and other kinds of works. It is intended to guarantee your freedom to share and change all versions of a software to make sure it remains free software for all its users\nMIT licence: is a permissive free software license. Without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software,\n\n\n\n \nThe licence must be made clear in the code repository and in the documentation"
+    "text": "FAIR4RS: Licence your code!\n\n\nYou need to tell people how they can re-use your code.\n\n\nGPLv3 The GNU General Public License: a free, copyleft license for software and other kinds of works. It is intended to guarantee your freedom to share and change all versions of a software to make sure it remains free software for all its users\nMIT licence: is a permissive free software license. Without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software,\n\n\n\n \nThe licence must be made clear in the code repository and in the documentation."
   },
   {
     "objectID": "index.html#fair4rs-get-credit-for-your-work",
@@ -214,7 +214,7 @@
     "href": "index.html#fair4rs-share-it-1",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "FAIR4RS: Share it!",
-    "text": "FAIR4RS: Share it!\n\n\n In order to ensure that others can access and download your code, and that this access remains permanent over time, you should deposit your code in a repository. Two types:\n\nGeneral purpose\nDomain Specific\n\nChoose what makes more sense for you project!"
+    "text": "FAIR4RS: Share it!\n\n\n In order to ensure that others can access and download your code, and that this access remains permanent over time, you should deposit your code in a repository. Two types:\n\nGeneral purpose\nDomain Specific\n\n Choose what makes more sense for you project!"
   },
   {
     "objectID": "index.html#fair4rs-share-it-2",
