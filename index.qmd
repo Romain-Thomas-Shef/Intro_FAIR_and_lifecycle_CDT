@@ -8,23 +8,28 @@ format:
 author: "<br>**Romain Thomas**<br>[Head of Research Software Engineering](https://rse.shef.ac.uk/),<br> The University of Sheffield<br>[rse.shef.ac.uk](https://rse.shef.ac.uk)"
 institute: "<br><strong>FAIR24RS training programme Kick-off Seminar</strong>, October 2024"
 date: ""
-footer: "**Access** to the slides: [here](https://fair2-for-research-software.github.io/Better_software_for_better_research/#/what-if-a-generation-of-research-stop-doing-this) - **Source** [github.com repository](git@github.com:FAIR2-for-research-software/Better_software_for_better_research.git)"
+footer: "**Access** to the slides: [here](https://fair2-for-research-software.github.io/Better_software_for_better_research/#/what-if-a-generation-of-research-stop-doing-this) - **Source** [Github repository](git@github.com:FAIR2-for-research-software/Better_software_for_better_research.git)"
 from: markdown+emoji
 css: style.css
 ---
 
 
-## During this talk:
+## Useful Information:
 
 ::: {.columns}
 
 ::: {.column width="60%"}
 
+- This talk is recorded.
 
 - You can follow the slides :arrow_right::arrow_right: <br>
-- Ask questions in the google chat. Thanks to XXXX for the moderation. <br>
+
+- Ask questions in the google chat. Thanks to Tamora James for the moderation. <br>
+
 - Slides are available freely on github.
+
 - Every [blue]() text is a hyperlink
+
 :::
 
 
@@ -38,6 +43,23 @@ css: style.css
 :::
 
 
+## Who am I? {.smaller}
+
+
+
+- Name : Romain Thomas
+
+- Role : Head of Research Software Engineering
+
+- Previously : Staff Astronomer and Software Project manager at the Very Large Telescope (Chile)
+ 
+- Released/Published a few modules/software:
+  - [dfitspy](https://joss.theoj.org/papers/10.21105/joss.01249)
+  - [SPARTAN](https://www.sciencedirect.com/science/article/pii/S2213133720300810?via%3Dihub)
+  - [SCUBA](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11449/2560271/The-SCUBA-project---First-layer-of-quality-control/10.1117/12.2560271.full)
+
+
+![](assets/images/p3.jpg){fig-align="center"}
 
 
 ## Who are we? The teams behind the programme {.smaller}
@@ -66,6 +88,9 @@ The Research Software Engineering team is composed of 14 members and <span style
 ::: {.columns}
 
 ::: {.column width="30%"}
+
+
+![](assets/images/DAS_logo.png){.absolute top="300" left="10" width="300" height="90"}
 
 :::
 
@@ -122,7 +147,7 @@ The Library's Scholarly Communications Team provides specialist services to supp
 
 ## Research creates knowledge…that is passed down{.smaller}
 
-<span style="color:red">"Knowledge is humankind's most precious treasure. Everything that we accomplished has been done due to the capacity to create a transmissible heritage, which spares each new generation the task of starting from scratch."<span style="color:red"> B. Sirbey<br><br><br>
+<span style="color:red">"Knowledge is humankind's most precious treasure. Everything that we accomplished has been done due to the capacity to create a transmissible heritage, which spares each new generation the task of starting from scratch."</span> B. Sirbey<br><br><br>
 
 > If we are doing the research you are doing today, it is thanks to the work of previous generations that created the knowledge that we are using now.
 
@@ -165,7 +190,6 @@ The Library's Scholarly Communications Team provides specialist services to supp
 
 ::: {.column width="40%"}
 
-<br>
 ![](assets/images/reproducible_turing.png)
 <font size="2">[The Turing Way](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-fair.html) project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://dx.doi.org/10.5281/zenodo.3332807)</font>
 
@@ -179,14 +203,14 @@ The Library's Scholarly Communications Team provides specialist services to supp
 
 ::: {.column width="40%"}
 
-<br>
 ![](assets/images/NatureSurvey.png)<br>
+
 <font size="2">[Source: Baker M., Nature, 2016](https://www.nature.com/articles/533452a)</font>
+
 :::
 
 ::: {.column width="60%"}
 
-<br>
 
 ::: {.r-stack}
 
@@ -256,7 +280,7 @@ The Library's Scholarly Communications Team provides specialist services to supp
 
 ::: {.column width="35%"}
 <br><br>
-A guideline for those wishing to enhance the reusability of their data holdings<br><font size="4"> –Wilkinson et al. (2016)–  </font>
+A guideline for those wishing to enhance the reusability of their data holdings<br><font size="4"> [–Wilkinson et al. (2016)–](https://www.nature.com/articles/sdata201618)  </font>
 :::
 
 :::
@@ -268,77 +292,39 @@ A guideline for those wishing to enhance the reusability of their data holdings<
 
 <font size="4">[Chue Hong, Neil P. et al, FAIR Principles for Research Software (FAIR4RS Principles)](https://doi.org/10.15497/RDA00068)</font>
 
+## The FAIR principles: what do they say?
 
-## Findable {.smaller}
+<br>
 
-**Software, and its associated metadata, is easy for both humans and machines to find.**
+- <span style="color:red">Findable</span>: Software, and its associated metadata, is easy for both humans and machines to find
 
-<font size=6>
-<ol type="1">
-<li>Software is assigned a globally unique and persistent identifier
-    <ol type="i">
-        <li>Components of the software representing levels of granularity are assigned distinct identifiers.</li>
-        <li>Different versions of the software are assigned distinct identifiers.</li>
-    </ol>
-</li>
-<li>Software is described with rich metadata.</li>
-<li>Metadata clearly and explicitly include the identifier of the software they describe.</li>
-<li>Metadata are FAIR, searchable and indexable.</li>
-</ol>
-</font>
+- <span style="color:red">Accessible</span>: Software, and its metadata, is retrievable via standardised protocols
+
+<font size=4>[Barker *et al.* *Scientific Data* 9:622 (2022) "Introducing the FAIR Principles for research software" DOI: 10.1038/s41597-022-01710-x](https://dx.doi.org/10.1038/s41597-022-01710-x)</font>
+
+::: {.notes}
+FINDABLE: Research software should have a globally unique and persistent identifier (e.g., DOI or a persistent URL) so that it can be easily found and cited. Sufficient metadata should be provided to help users discover the software. This includes descriptions of the software's function, version information, authorship, and where to access it. The software and its metadata should be indexed in searchable repositories so it can be discovered via common search engines and research infrastructure platforms (e.g., Zenodo, GitHub, or institutional repositories).
+
+ACCESSIBLE: The software should be easily retrievable using the unique identifier. Typically, this involves storing the software in a trusted repository that ensures long-term access. Clear information about the conditions under which the software can be accessed should be available, including open access options, if applicable. This ensures users understand whether they can freely use or adapt the software. 
+:::
+
+## The FAIR principles: what do they say?
+
+<br>
+
+- <span style="color:red">Interoperable</span>: Software interoperates with other software by exchanging data and/or metadata, and/or through interaction via application programming interfaces (APIs), described through standards.
+
+- <span style="color:red">Reusable</span>: Software is both usable (can be executed) and reusable (can be understood, modified, built upon, or incorporated into other software)
 
 <font size=4>[Barker *et al.* *Scientific Data* 9:622 (2022) "Introducing the FAIR Principles for research software" DOI: 10.1038/s41597-022-01710-x](https://dx.doi.org/10.1038/s41597-022-01710-x)</font>
 
 
-## Accessible 
+::: {.notes}
+INTEROPERABLE: The software should use standardized data formats and interfaces where possible, allowing it to work with other software, tools, or systems. Clear documentation should be provided so users know how to integrate the software with other tools or systems. Where possible, the software should implement and support established protocols, formats, and APIs that are widely adopted in the research community.
 
-**Software, and its metadata, is retrievable via standardised protocols.**
+REUSABLE: The software should be well-documented, including clear instructions on how to install, run, and modify it. The metadata should describe how and where the software can be reused, including dependencies, versioning, and requirements. An appropriate open or permissive license should be provided to ensure that others can legally reuse, modify, and redistribute the software. Adhering to coding standards, including the use of tests and continuous integration (CI), enhances the reliability and reusability of the software.
+:::
 
-<font size=6>
-<ol type="1">
-<li>Software is retrievable by its identifier using a standardised communications protocol.
-    <ol type="i">
-        <li>The protocol is open, free, and universally implementable.</li>
-        <li>The protocol allows for an authentication and authorization procedure, where necessary.</li>
-    </ol>
-</li>
-<li>Metadata are accessible, even when the software is no longer available.</li>
-</ol>
-</font>
-
-<font size=4>[Barker *et al.* *Scientific Data* 9:622 (2022) "Introducing the FAIR Principles for research software" DOI: 10.1038/s41597-022-01710-x](https://dx.doi.org/10.1038/s41597-022-01710-x)</font>
-
-## Interoperable
-
-**Software interoperates with other software by exchanging data and/or metadata, and/or through interaction via application programming interfaces (APIs), described through standards.**
-
-<font size=6>
-<ol type="1">
-<li>Software reads, writes and exchanges data in a way that meets domain-relevant community standards.</li>
-<li>Software includes qualified references to other objects.</li>
-</ol>
-</font>
-
-<font size=4>[Barker *et al.* *Scientific Data* 9:622 (2022) "Introducing the FAIR Principles for research software" DOI: 10.1038/s41597-022-01710-x](https://dx.doi.org/10.1038/s41597-022-01710-x)</font>
-
-## Reusable
-
-**Software is both usable (can be executed) and reusable (can be understood, modified, built upon, or incorporated into other software).**
-
-<font size=6>
-<ol type="1">
-<li>Software is described with a plurality of accurate and relevant attributes.
-    <ol type="i">
-        <li>Software is given a clear and accessible license.</li>
-        <li>Software is associated with detailed provenance.</li>
-    </ol>
-</li>
-<li>Software includes qualified references to other software.</li>
-<li>Software meets domain-relevant community standards.</li>
-</ol>
-</font>
-
-<font size=4>[Barker *et al.* *Scientific Data* 9:622 (2022) "Introducing the FAIR Principles for research software" DOI: 10.1038/s41597-022-01710-x](https://dx.doi.org/10.1038/s41597-022-01710-x)</font>
 
 
 ## University's position about FAIR {.smaller}
@@ -729,7 +715,7 @@ Do you feel that you have received sufficient training to develop reliable softw
 
 ::: {.column width="50%"}
 
-<br><br>
+<br>
 <span style="color:red">Who</span>: 
 [Romain Thomas](mailto:romain.thomas@sheffield.ac.uk), [R. Campbell](), [K. O’Neill]()
 
@@ -744,7 +730,6 @@ Do you feel that you have received sufficient training to develop reliable softw
 
 <font size=5>
 
-<br>
 <ins>Abstract:</ins>  
 When you start writing software it is often very useful to think about the development process and how you will make your software sustainable in the long term. In this module we will introduce important aspects of software development in research: <span style="color:red">*software management plan, licences and dissemination*</span>. This module should allow you to ask yourself the right questions when starting a research software project.
 
@@ -761,7 +746,8 @@ When you start writing software it is often very useful to think about the devel
 ::: {.column width="50%"}
 
 
-<br><br>
+<br>
+
 <span style="color:red">Who</span>:  [Neil Shephard](mailto:neil.shephard@sheffield.ac.uk)
 
 <span style="color:red">When/Length</span>: 18/19 November (2 half days). Another session in February
@@ -775,7 +761,7 @@ When you start writing software it is often very useful to think about the devel
 
 <font size=5>
 
-<br>
+
 <ins>Abstract:</ins> 
 If you’ve never heard of or used version control and Git before this is the course for you. We start by introducing version control and exploring how it can be beneficial to researchers, then we introduce some useful tools and get started with some basic workflow using these tools. We build on those foundations with collaborative exercises that introduce key concepts such as forks, pull requests and branches and give you the chance to <span style="color:red">*get some hands-on experience with using version control in a research setting*</span>. 
 
@@ -796,7 +782,7 @@ If you’ve never heard of or used version control and Git before this is the co
 ::: {.column width="50%"}
 
 
-<br><br><br>
+<br>
 <span style="color:red">Who</span>:  [Neil Shephard](mailto:neil.shephard@sheffield.ac.uk)
 
 <span style="color:red">When/Length</span>: February
@@ -810,7 +796,7 @@ If you’ve never heard of or used version control and Git before this is the co
 
 <font size=5>
 
-<br>
+
 <ins>Abstract:</ins>  
 This course aims to help you develop a <span style="color:red">*deeper understanding of how Git works to facilitate collaboration*</span>. It builds on foundations laid by the Git beginners course. The core idea around the course is that by improving your understanding of working with branches and how to make your commits tidier and neater it makes it easier to understand pull requests and Git history which in turn makes it easier to collaborate and work on code with others (including your future self!).
 
@@ -832,7 +818,7 @@ This course aims to help you develop a <span style="color:red">*deeper understan
 ::: {.column width="50%"}
 
 
-<br><br><br>
+<br><br>
 <span style="color:red">Who</span>: [R. Thomas](mailto:romain.thomas@sheffield.ac.uk)
 
 <span style="color:red">When/Length</span>: 12/13 December (2 half days)
@@ -845,7 +831,6 @@ This course aims to help you develop a <span style="color:red">*deeper understan
 
 <font size=5>
 
-<br>
 <ins>Abstract:</ins>  
 
 The way you write your code will have a massive impact on how easy it is to maintain in the long run. <span style="color:red">*This course on Code Design introduces essential principles and best practices for writing clean and maintainable code*</span>. We will learn how we can write clean code, adhering to naming conventions, commenting, and following PEP 8 guidelines. We will then explore some fundamental principles such as DRY, KISS or YAGNI that are important to keep in mind when writing new code and see how we can spend less time touching the code by introducing configuration files and command line interface.   
@@ -866,7 +851,7 @@ The way you write your code will have a massive impact on how easy it is to main
 ::: {.column width="50%"}
 
 
-<br><br><br>
+<br><br>
 <span style="color:red">Who</span>: [Sylvia Whittle](mailto:sylvia.whittle@sheffield.ac.uk) 
 
 <span style="color:red">When/Length</span>: January (half day)
@@ -880,7 +865,7 @@ The way you write your code will have a massive impact on how easy it is to main
 
 <font size=5>
 
-<br>
+
 <ins>Abstract:</ins>  
 
 Does your code work? Are you sure? How do you ensure that it keeps working when you change it? Manually verifying is slow and tedious. Why not automate it? Software testing checks that your code works for you, and when it breaks, it can show you exactly where it broke, without you having to trawl through hundreds of lines of code manually.<span style="color:red">*This course aims to provide you with the tools you need to start automatically ensuring the reliability of your code.*</span>
@@ -904,7 +889,7 @@ Does your code work? Are you sure? How do you ensure that it keeps working when 
 ::: {.column width="50%"}
 
 
-<br><br><br>
+<br><br>
 <span style="color:red">Who</span>: [Joe Heffer](mailto:joe.heffer@sheffield.ac.uk) 
 
 <span style="color:red">When/Length</span>: February (half day)
@@ -1009,7 +994,7 @@ Packaging your software is one of the most important steps in a software project
 ::: {.column width="50%"}
 
 
-<br><br><br>
+<br><br>
 <span style="color:red">Who</span>: [Romain Thomas](mailto:romain.thomas@sheffield.ac.uk) & [Arfon Smith]() 
 
 <span style="color:red">When/Length</span>: April, 1.5h
@@ -1023,10 +1008,10 @@ Packaging your software is one of the most important steps in a software project
 
 <font size=5>
 
-<br>
+
 <ins>Abstract:</ins>  
 
-Did you know that you can actually publish a paper about your software? This is an ideal way to get recognition (and citation) for the software you have spent countless hours creating. <span style="color:red">*In this course we will walk you through an example of submission in the Journal of open Source software.*</span> We will make an example software submission to the journal, and thanks to the collaboration of the Editor in Chief of JOSS (Arfon Smith), we will look at how the review process is done.
+Did you know that you can actually publish a paper about your software? This is an ideal way to get recognition (and citation) for the software you have spent countless hours creating. <span style="color:red">*In this course we will walk you through an example of submission in the [Journal of Open Source Software](https://joss.theoj.org/).*</span> We will make an example software submission to the journal, and thanks to the collaboration of the Editor in Chief of JOSS (Arfon Smith), we will look at how the review process is done.
 
 </font>
 
@@ -1135,15 +1120,23 @@ On a short demonstration, we will attempt to review the main points of the train
 
 ![](assets/images/FAIR_rse_website.png){.absolute top="240" left="650" width="200" height="200"}
 
+</font>
+:::
+
+:::
+
+
+## RSE website 
+
+![](assets/images/Screenshot_website.png){fig-align="center"}
+
+<font size=5>
 **Contacts:**
 
 - Tamora James -RSE and FAIR<sup>2</sup>4RS Programme Manager -[(t.d.james@sheffield.ac.uk)](mailto:t.d.james@sheffield.ac.uk)
 - Romain Thomas -Head of RSE-[(romain.thomas@sheffield.ac.uk)](mailto:romain.thomas@sheffield.ac.uk) - Head of RSE -
 
 </font>
-:::
-
-:::
 
 
 ## Acknowledgements & References {.smaller}
@@ -1159,6 +1152,26 @@ On a short demonstration, we will attempt to review the main points of the train
 * Chue Hong, Neil P. et al, [FAIR principles for Research Software](https://doi.org/10.15497/RDA00068)<br>
 
 ## Thank you!
-![](assets/images/Screenshot_website.png){fig-align="center"}
+
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+
+![](assets/images/qr-code_feedback.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+
+<br><br><br>
+
+Help us improve!
+
+Scan to give your feedback! 
+
+:::
+
+:::
 
 
