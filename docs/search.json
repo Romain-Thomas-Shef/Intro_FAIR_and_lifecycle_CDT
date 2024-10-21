@@ -4,7 +4,7 @@
     "href": "index.html#useful-information",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "Useful Information:",
-    "text": "Useful Information:\n\n\n\nThis talk is recorded.\nYou can follow the slides ➡️➡️ \nAsk questions in the google chat. Thanks to Tamora James for the moderation. \nSlides are available freely on github.\nEvery blue text is a hyperlink"
+    "text": "Useful Information:\n\n\n\nThis talk is recorded.\nYou can follow the slides ➡️➡️ \nSlides are available freely on github.\nAsk questions in the google chat. Thanks to Tamora James for the moderation. \nEvery blue text is a hyperlink"
   },
   {
     "objectID": "index.html#who-am-i",
@@ -18,7 +18,7 @@
     "href": "index.html#who-are-we-the-teams-behind-the-programme",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "Who are we? The teams behind the programme",
-    "text": "Who are we? The teams behind the programme\nResearch Software Engineering\n\n\n\n\n\n\n\n\nThe Research Software Engineering team is composed of 14 members and collaborates with researcher across the University in building research software. Areas of expertise within the group include: general software development, code optimisation and performance, reproducibility, GPU computing and Deep Learning, High Performance Computing, training, etc…"
+    "text": "Who are we? The teams behind the programme\nResearch Software Engineering\n\n\n\n\n\n\n\n\nThe Research Software Engineering team is composed of 13 members and collaborates with researchers across the University in building research software. Areas of expertise within the group include: general software development, code optimisation and performance, reproducibility, GPU computing and Deep Learning, High Performance Computing, training, etc…"
   },
   {
     "objectID": "index.html#who-are-we-the-teams-behind-the-programme-1",
@@ -46,7 +46,7 @@
     "href": "index.html#research-creates-knowledgethat-is-passed-down",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "Research creates knowledge…that is passed down",
-    "text": "Research creates knowledge…that is passed down\n“Knowledge is humankind’s most precious treasure. Everything that we accomplished has been done due to the capacity to create a transmissible heritage, which spares each new generation the task of starting from scratch.” B. Sirbey, le grand homme qui apprend.  \n\nIf we are doing the research you are doing today, it is thanks to the work of previous generations that created the knowledge that we are using now."
+    "text": "Research creates knowledge…that is passed down\n“Knowledge is humankind’s most precious treasure. Everything that we accomplished has been done due to the capacity to create a transmissible heritage, which spares each new generation the task of starting from scratch.” B. Sirbey, le grand homme qui apprend.  \n\nIf we are doing the research we are doing today, it is thanks to the work of previous generations that created the knowledge that we are using now."
   },
   {
     "objectID": "index.html#and-that-can-be-trusted",
@@ -56,11 +56,11 @@
     "text": "And that can be trusted…\n\n\n\n\nResearch relies on the ability to trust what has been done before.\nThis means that a result has been tested, verified and could be reproduced ➡️➡️\nTools and methods used for a particular result are known and shared…\n\n\n\n  The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807"
   },
   {
-    "objectID": "index.html#what-if-a-generation-of-research-stop-doing-this",
-    "href": "index.html#what-if-a-generation-of-research-stop-doing-this",
+    "objectID": "index.html#what-if-a-generation-of-researchers-stop-doing-this",
+    "href": "index.html#what-if-a-generation-of-researchers-stop-doing-this",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
-    "section": "What if a generation of research stop doing this?",
-    "text": "What if a generation of research stop doing this?\n\n\n\n\nTools and methods used for a particular results are NOT known and shared…\nThis means that a result can NOT be tested and verified and can NOT be reproduced.\n➡️ It is harder to trust research\n\n\n\n The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807"
+    "section": "What if a generation of researchers stop doing this?",
+    "text": "What if a generation of researchers stop doing this?\n\n\n\n\nTools and methods used for a particular results are NOT known and shared…\nThis means that a result can NOT be tested and verified and can NOT be reproduced.\n➡️ It is harder to trust research\n\n\n\n The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807"
   },
   {
     "objectID": "index.html#are-we-far-from-reaching-this-situation",
@@ -235,7 +235,7 @@
     "href": "index.html#software-lifecycle-planning",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "Software Lifecycle Planning",
-    "text": "Software Lifecycle Planning\n\n\n Who: Romain Thomas, R. Campbell, K. O’Neill\nWhen/Length: November 8th / 2.5h (afternoon)\nFormat: Online\n\n\n\nAbstract:\n\nWhen you start writing software it is often very useful to think about the development process and how you will make your software sustainable in the long term. In this module we will introduce important aspects of software development in research: software management plan, licences and dissemination. This module should allow you to ask yourself the right questions when starting a research software project."
+    "text": "Software Lifecycle Planning\n\n\n Who: R Thomas, R. Campbell, K. O’Neill\nWhen/Length: November 8th / 2.5h (afternoon)\nFormat: Online\n\n\n\nAbstract:\n\nWhen you start writing software it is often very useful to think about the development process and how you will make your software sustainable in the long term. In this module we will introduce important aspects of software development in research: software management plan, licences and dissemination. This module should allow you to ask yourself the right questions when starting a research software project."
   },
   {
     "objectID": "index.html#version-control-git-github-and-gitkraken---from-zero-to-hero",
@@ -312,7 +312,7 @@
     "href": "index.html#the-fair24rs-programme-material-and-dependencies",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "The FAIR24RS Programme: Material and dependencies",
-    "text": "The FAIR24RS Programme: Material and dependencies\n\n\n\n\nAll materials are designed using the same structure (Software Carpentry workbench) and are freely accessible on Github.\nYou can pick-and-choose the lecture you will follow based on the skills you already have. Each lecture comes with a set of prerequisities that are clearly identified.\nA feedback form will be provided after each lecture for feedback."
+    "text": "The FAIR24RS Programme: Material and dependencies\n\n\n\n\nAll materials are designed using the same structure (Software Carpentry workbench) and are freely accessible on Github.\nYou can pick-and-choose the lecture you will follow based on the skills you already have. Each lecture comes with a set of prerequisities that are clearly identified.\nA feedback form will be provided after each lecture."
   },
   {
     "objectID": "index.html#the-fair24rs-programme-important-notes",
@@ -326,7 +326,7 @@
     "href": "index.html#rse-website",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "RSE website",
-    "text": "RSE website\n\n Contacts:\n\nTamora James -RSE and FAIR24RS Programme Manager -(t.d.james@sheffield.ac.uk)\nRomain Thomas -Head of RSE-(romain.thomas@sheffield.ac.uk) - Head of RSE -"
+    "text": "RSE website\n\n Contacts:\n\nTamora James -RSE and FAIR24RS Programme Manager -(t.d.james@sheffield.ac.uk)\nRomain Thomas -Head of RSE-(romain.thomas@sheffield.ac.uk)"
   },
   {
     "objectID": "index.html#acknowledgements-references",

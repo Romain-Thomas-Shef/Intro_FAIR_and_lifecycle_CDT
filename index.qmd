@@ -24,9 +24,9 @@ css: style.css
 
 - You can follow the slides :arrow_right::arrow_right: <br>
 
-- Ask questions in the google chat. Thanks to Tamora James for the moderation. <br>
-
 - Slides are available freely on github.
+
+- Ask questions in the google chat. Thanks to Tamora James for the moderation. <br>
 
 - Every [blue]() text is a hyperlink
 
@@ -76,7 +76,7 @@ css: style.css
 
 ::: {.column width="70%"}
 
-The Research Software Engineering team is composed of 14 members and <span style="color:red">**collaborates with researcher across the University in building research software**</span>. Areas of expertise within the group include: general software development, code optimisation and performance, reproducibility, GPU computing and Deep Learning, High Performance Computing, training, etc...
+The Research Software Engineering team is composed of 13 members and <span style="color:red">**collaborates with researchers across the University in building research software**</span>. Areas of expertise within the group include: general software development, code optimisation and performance, reproducibility, GPU computing and Deep Learning, High Performance Computing, training, etc...
 
 :::
 
@@ -150,7 +150,7 @@ The Library's Scholarly Communications Team provides specialist services to supp
 <span style="color:red">"Knowledge is humankind's most precious treasure. Everything that we accomplished has been done due to the capacity to create a transmissible heritage, which spares each new generation the task of starting from scratch."</span> <font size="4">*B. Sirbey, le grand homme qui apprend.* </font> 
 <br><br><br>
 
-> If we are doing the research you are doing today, it is thanks to the work of previous generations that created the knowledge that we are using now.
+> If we are doing the research we are doing today, it is thanks to the work of previous generations that created the knowledge that we are using now.
 
 ## And that can be trusted...
 
@@ -175,7 +175,7 @@ The Library's Scholarly Communications Team provides specialist services to supp
 :::
 
 
-## What if a generation of research stop doing this?
+## What if a generation of researchers stop doing this?
 
 ::: {.columns}
 
@@ -716,7 +716,7 @@ Do you feel that you have received sufficient training to develop reliable softw
 
 <br>
 <span style="color:red">Who</span>: 
-[Romain Thomas](mailto:romain.thomas@sheffield.ac.uk), [R. Campbell](), [K. O’Neill]()
+[R Thomas](mailto:romain.thomas@sheffield.ac.uk), [R. Campbell](), [K. O’Neill]()
 
 <span style="color:red">When/Length</span>: November 8th / 2.5h (afternoon)
 
@@ -1078,7 +1078,7 @@ On a short demonstration, we will attempt to review the main points of the train
 
 - <span style="color:red">**You can pick-and-choose the lecture**</span> you will follow based on the skills you already have. Each lecture comes with a set of prerequisities that are clearly identified.
 
-- A feedback form will be provided after each lecture for feedback.
+- A feedback form will be provided after each lecture.
 
 </font>
 :::
@@ -1133,7 +1133,7 @@ On a short demonstration, we will attempt to review the main points of the train
 **Contacts:**
 
 - Tamora James -RSE and FAIR<sup>2</sup>4RS Programme Manager -[(t.d.james@sheffield.ac.uk)](mailto:t.d.james@sheffield.ac.uk)
-- Romain Thomas -Head of RSE-[(romain.thomas@sheffield.ac.uk)](mailto:romain.thomas@sheffield.ac.uk) - Head of RSE -
+- Romain Thomas -Head of RSE-[(romain.thomas@sheffield.ac.uk)](mailto:romain.thomas@sheffield.ac.uk)
 
 </font>
 
