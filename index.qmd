@@ -386,9 +386,6 @@ REUSABLE: The software should be well-documented, including clear instructions o
 ![](assets/images/chan_invert.png){fig-align="center" width="800" height="500"}
 
 
-## An example of (small) software
-
-
 
 ## FA<span style="color:red">IR</span>4RS: Think about how you are coding...
 
