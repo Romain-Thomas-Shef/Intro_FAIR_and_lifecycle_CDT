@@ -59,7 +59,7 @@ css: style.css
   - [SCUBA](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11449/2560271/The-SCUBA-project---First-layer-of-quality-control/10.1117/12.2560271.full)
 
 
-![](assets/images/p3.jpg){fig-align="center"}
+![](assets/images/p3.jpg){.absolute top="350" left="300" width="800" height="250"}
 
 
 ## Who are we? The teams behind the programme {.smaller}
@@ -107,7 +107,7 @@ The Data Analytics Service (IT Services) supports research excellence at the Uni
 
 
 ## Who are we? The teams behind the programme {.smaller}
-**Library's Scholarly Communications Team**
+**Library's Scholarly Communications**
 
 ::: {.columns}
 
@@ -137,7 +137,7 @@ The Library's Scholarly Communications Team provides specialist services to supp
 
 <span style="color:red">"The succession of researchers is comparable to a single person who learns indefinitely.</span><br>
 <font size="4">*Pascal, Pensee, French Mathematician, Physicist, inventor, philosopher and theologian  [1623-1662]*</font>
-![](assets/images/pascal.webp){.absolute top="250" left="800" width="300" height="350"}
+![](assets/images/pascal.webp){.absolute top="250" left="750" width="300" height="350"}
 
 ::: incremental
 -   That's very old....
@@ -147,7 +147,8 @@ The Library's Scholarly Communications Team provides specialist services to supp
 
 ## Research creates knowledge…that is passed down{.smaller}
 
-<span style="color:red">"Knowledge is humankind's most precious treasure. Everything that we accomplished has been done due to the capacity to create a transmissible heritage, which spares each new generation the task of starting from scratch."</span> B. Sirbey<br><br><br>
+<span style="color:red">"Knowledge is humankind's most precious treasure. Everything that we accomplished has been done due to the capacity to create a transmissible heritage, which spares each new generation the task of starting from scratch."</span> <font size="4">*B. Sirbey, le grand homme qui apprend.* </font> 
+<br><br><br>
 
 > If we are doing the research you are doing today, it is thanks to the work of previous generations that created the knowledge that we are using now.
 
@@ -216,7 +217,7 @@ The Library's Scholarly Communications Team provides specialist services to supp
 
 ::: incremental
 -   90% said there is a crisis!
--   More than 70% of researchers have tried and failed to reproduce another scientist's experiments…
+-   More than 70% of researchers have tried and failed to reproduce another scientist's experiments… <br><br><br><br><br>
 -   <span style="color:red">And more than half have failed to reproduce their own experiments.</span>
 :::
 
@@ -228,31 +229,16 @@ The Library's Scholarly Communications Team provides specialist services to supp
 
 :::
 
-# I am probably one of them...!
 
 # So how do we get better?
 
 ## Let's improve!
 
 
-::: {.columns}
+![](assets/images/continuum.png){fig-align="center"}
 
-::: {.column width="70%"}
-<br>
-![](assets/images/continuum.png){fig-align="center"}<br>
 <font size="2">[Source: www.aalto.fi](https://www.aalto.fi/en/open-science-and-research/getting-started-with-reproducibility-in-research)</font>
-:::
 
-::: {.column width="30%"}
-
-::: incremental
--   That’s a lot to consider…But don’t be scared!!!!
--   You do not need to learn everything at once… <span style="color:red">Start by one</span>!
-:::
-
-:::
-
-:::
 
 # And why not start with your software?
 
@@ -423,7 +409,11 @@ REUSABLE: The software should be well-documented, including clear instructions o
 ::: {.column width="50%"}
 
 <br>
-![](assets/images/standards.png){.absolute top="150" left="600" width="500" height="450"}
+
+![](assets/images/C++style.png){.absolute top="100" left="550" width="500" height="350"}
+![](assets/images/RStyle.png){.absolute top="330" left="510" width="400" height="150"}
+![](assets/images/PEP8.png){.absolute top="430" left="650" width="400" height="150"}
+
 :::
 
 :::
@@ -500,7 +490,6 @@ A little poem from [A beginner’s guide to writing documentation](https://www.w
 
 ::: {.column width="50%"}
 
-![](assets/images/doc.png){.absolute top="100" left="550" width="500" height="500"} 
 :::
 
 :::
@@ -526,7 +515,9 @@ In practice, Github can host documentation as website (and it is very easy to do
 
 ::: {.column width="50%"}
 
-![](assets/images/doc.png){.absolute top="100" left="550" width="500" height="500"} 
+![](assets/images/RSEwebsite.png){.absolute top="100" left="550" width="500" height="350"} 
+![](assets/images/rtd.jpg){.absolute top="350" left="650" width="400" height="250"} 
+
 :::
 
 :::
@@ -551,7 +542,8 @@ You need to tell people how they can re-use your code.
 
 ::: {.column width="50%"}
 
-![](assets/images/licence.png){.absolute top="100" left="550" width="500" height="280"} <br><br><br><br><br><br><br><br><br><br>
+![](assets/images/licence.png){.absolute top="100" left="550" width="500" height="280"} 
+<br><br><br><br><br><br><br><br><br><br>
 
 <span style="color:red">The licence must be made clear in the code repository and in the documentation.</span>
 :::
@@ -565,7 +557,8 @@ If people are using your software you should get credit for it.
 
 :arrow_right: state how you want to be credited. You can add it in the documentation and/or create a [citation.cff](https://citation-file-format.github.io/) file that you can add with your code ([tools](https://citation-file-format.github.io/cff-initializer-javascript/#/). are available to generate them)
 
-![](assets/images/credit.png)
+![](assets/images/citation_cff.png){.absolute top="250" left="550" width="500" height="280"} 
+![](assets/images/acknow.png){.absolute top="290" left="20" width="500" height="200"} 
 
 
 
@@ -617,8 +610,7 @@ In order to ensure that others can access and download your code, and that this 
 
 ::: {.column width="50%"}
 
-![](assets/images/zenodo.png){.absolute top="50" left="600" width="400" height="300"}
-![](assets/images/ASCL.png){.absolute top="400" left="580" width="500" height="150"}
+![](assets/images/zenodo.png){.absolute top="200" left="550" width="500" height="300"}
 
 :::
 
@@ -652,30 +644,39 @@ It means it can be cited in publication and other communications in order to ope
 :::
 
 ## <span style="color:red">FA</span>IR4RS: Publish it!{.smaller}
-
+ 
+<br>
 
 ::: {.columns}
 
 ::: {.column width="50%"}
 
-<br><br>
-Multiple journals accept publication that present software:
+- Generalist software journals
+  - [JOSS](https://joss.theoj.org/): Journal of Open Source Software:
+<font size=3>Academic journal with a formal peer review process that is designed to improve the quality of the software submitted. </font>
+  - [JORS](https://openresearchsoftware.metajnl.com/): Journal of Open Research Software:
+<font size=3> Features peer reviewed Software Metapapers describing research software with high reuse potential. </font>
+  - [Software Impacts](https://www.sciencedirect.com/journal/software-impacts):
+<font size=3>multidisciplinary, open access, peer-reviewed journal which publishes short, articles that describe software which addresses a research challenge. </font>
 
-- Some are generalists (e.g. JOSS, JOSR)<br>
-- Some are domain specific (e.g. Astronomy and Computing)
-
-
-For example, in JOSS, the review process is fully public and transparent. It is done entirely on github. The reviewer will actually really look at the code and the documentation.
 :::
 
 ::: {.column width="50%"}
 
-![](assets/images/JOSS.png){.absolute top="30" left="600" width="400" height="200"}
+- Some are domain specific:
+  - Astronomy and computing
+  - Journal of Artificial Societies and Social Simulation
+  - Journal of Statistical Software
+  - Science of Computer Programming
+  - Computer Methods and Programs in Biomedicine
 
-![](assets/images/dfitspy_JOSS.png){.absolute top="250" left="550" width="500" height="500"}
 :::
 
 :::
+
+
+You can find a list of potential journals [here](https://www.software.ac.uk/top-tip/which-journals-should-i-publish-my-software)
+
 
 
 # The FAIR<sup>2</sup>4RS training programme at the University
@@ -689,13 +690,14 @@ For example, in JOSS, the review process is fully public and transparent. It is 
 
 <br><br>
 Do you feel that you have received sufficient training to develop reliable software?
-<br>
+
+
 <font size=3>Bob Turner & Paul Richmond, UoS, RSE team, [github.com/RSE-Sheffield/sssurvey](rse.shef.ac.uk/sssurvey). </font>
 :::
 
 ::: {.column width="50%"}
 
-![](assets/images/Survey.png){.absolute top="200" left="600" width="400" height="200"}
+![](assets/images/Survey.png){.absolute top="200" left="550" width="500" height="200"}
 
 
 :::

@@ -32,7 +32,7 @@
     "href": "index.html#who-are-we-the-teams-behind-the-programme-2",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "Who are we? The teams behind the programme",
-    "text": "Who are we? The teams behind the programme\nLibrary’s Scholarly Communications Team\n\n\n\n\nThe Library’s Scholarly Communications Team provides specialist services to support researchers at the University of Sheffield. They offer guidance on making your research outputs open access, and give support on good practice in research data management, copyright and licensing as well as open research more broadly."
+    "text": "Who are we? The teams behind the programme\nLibrary’s Scholarly Communications\n\n\n\n\nThe Library’s Scholarly Communications Team provides specialist services to support researchers at the University of Sheffield. They offer guidance on making your research outputs open access, and give support on good practice in research data management, copyright and licensing as well as open research more broadly."
   },
   {
     "objectID": "index.html#research-is-a-continuous-process",
@@ -46,7 +46,7 @@
     "href": "index.html#research-creates-knowledgethat-is-passed-down",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "Research creates knowledge…that is passed down",
-    "text": "Research creates knowledge…that is passed down\n“Knowledge is humankind’s most precious treasure. Everything that we accomplished has been done due to the capacity to create a transmissible heritage, which spares each new generation the task of starting from scratch.” B. Sirbey\n\nIf we are doing the research you are doing today, it is thanks to the work of previous generations that created the knowledge that we are using now."
+    "text": "Research creates knowledge…that is passed down\n“Knowledge is humankind’s most precious treasure. Everything that we accomplished has been done due to the capacity to create a transmissible heritage, which spares each new generation the task of starting from scratch.” B. Sirbey, le grand homme qui apprend.  \n\nIf we are doing the research you are doing today, it is thanks to the work of previous generations that created the knowledge that we are using now."
   },
   {
     "objectID": "index.html#and-that-can-be-trusted",
@@ -67,14 +67,14 @@
     "href": "index.html#are-we-far-from-reaching-this-situation",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "Are we far from reaching this situation?",
-    "text": "Are we far from reaching this situation?\n\n\n\nSource: Baker M., Nature, 2016\n\n\n\n\n90% said there is a crisis!\nMore than 70% of researchers have tried and failed to reproduce another scientist’s experiments…\nAnd more than half have failed to reproduce their own experiments."
+    "text": "Are we far from reaching this situation?\n\n\n\nSource: Baker M., Nature, 2016\n\n\n\n\n90% said there is a crisis!\nMore than 70% of researchers have tried and failed to reproduce another scientist’s experiments… \nAnd more than half have failed to reproduce their own experiments."
   },
   {
     "objectID": "index.html#lets-improve",
     "href": "index.html#lets-improve",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "Let’s improve!",
-    "text": "Let’s improve!\n\n\n  Source: www.aalto.fi\n\n\n\nThat’s a lot to consider…But don’t be scared!!!!\nYou do not need to learn everything at once… Start by one!"
+    "text": "Let’s improve!\n\nSource: www.aalto.fi"
   },
   {
     "objectID": "index.html#lets-start-by-a-definition-what-is-a-software",
@@ -221,14 +221,14 @@
     "href": "index.html#fair4rs-publish-it",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "FAIR4RS: Publish it!",
-    "text": "FAIR4RS: Publish it!\n\n\n Multiple journals accept publication that present software:\n\nSome are generalists (e.g. JOSS, JOSR)\nSome are domain specific (e.g. Astronomy and Computing)\n\nFor example, in JOSS, the review process is fully public and transparent. It is done entirely on github. The reviewer will actually really look at the code and the documentation."
+    "text": "FAIR4RS: Publish it!\n\n\n\n\nGeneralist software journals\n\nJOSS: Journal of Open Source Software: Academic journal with a formal peer review process that is designed to improve the quality of the software submitted. \nJORS: Journal of Open Research Software:  Features peer reviewed Software Metapapers describing research software with high reuse potential. \nSoftware Impacts: multidisciplinary, open access, peer-reviewed journal which publishes short, articles that describe software which addresses a research challenge. \n\n\n\n\nSome are domain specific:\n\nAstronomy and computing\nJournal of Artificial Societies and Social Simulation\nJournal of Statistical Software\nScience of Computer Programming\nComputer Methods and Programs in Biomedicine\n\n\n\nYou can find a list of potential journals here"
   },
   {
     "objectID": "index.html#lack-of-skills-for-developing-software",
     "href": "index.html#lack-of-skills-for-developing-software",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "Lack of skills for developing software",
-    "text": "Lack of skills for developing software\n\n\n Do you feel that you have received sufficient training to develop reliable software?  Bob Turner & Paul Richmond, UoS, RSE team, github.com/RSE-Sheffield/sssurvey."
+    "text": "Lack of skills for developing software\n\n\n Do you feel that you have received sufficient training to develop reliable software?\nBob Turner & Paul Richmond, UoS, RSE team, github.com/RSE-Sheffield/sssurvey."
   },
   {
     "objectID": "index.html#the-fair24rs-programme-overview",
