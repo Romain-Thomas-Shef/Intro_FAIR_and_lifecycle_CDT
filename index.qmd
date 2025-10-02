@@ -1,12 +1,12 @@
 ---
-title: "-Better software for Better research-<br>Introduction to the FAIR<sup>2</sup> for Research Software training Programme"
+title: "-Better software for Better research-<br>Introduction to the FAIR<sup>2</sup> principles for Research Software"
 format:
     revealjs:
         theme: [dark, custom.scss]
         slide-number: true
         show-slide-number: speaker
 author: "<br>**Romain Thomas**<br>[Head of Research Software Engineering](https://rse.shef.ac.uk/),<br> The University of Sheffield<br>[rse.shef.ac.uk](https://rse.shef.ac.uk)"
-institute: "<br><strong>FAIR24RS training programme Kick-off Seminar</strong>, October 2024"
+institute: "<br><strong>MADE4MADE4Manufacturing Centre for Doctoral Training, <br> Data science and RSE module </strong>, <br> October 2025"
 date: ""
 footer: "**Access** to the slides: [here](https://fair2-for-research-software.github.io/Better_software_for_better_research/#/what-if-a-generation-of-research-stop-doing-this) - **Source** [Github repository](https://github.com/FAIR2-for-research-software/Better_software_for_better_research)"
 from: markdown+emoji
@@ -20,13 +20,11 @@ css: style.css
 
 ::: {.column width="60%"}
 
-- This talk is recorded.
-
 - You can follow the slides :arrow_right::arrow_right: <br>
 
 - Slides are available freely on github.
 
-- Ask questions in the google chat. Thanks to Tamora James for the moderation. <br>
+- Interrupt me whenever you want. <br>
 
 - Every [blue]() text is a hyperlink
 
