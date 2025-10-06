@@ -231,11 +231,18 @@
     "text": "Lack of skills for developing software\n\n\n Do you feel that you have received sufficient training to develop reliable software?\nBob Turner & Paul Richmond, UoS, RSE team, github.com/RSE-Sheffield/sssurvey."
   },
   {
-    "objectID": "index.html#the-fair24rs-programme-overview",
-    "href": "index.html#the-fair24rs-programme-overview",
+    "objectID": "index.html#the-fair24rs-module",
+    "href": "index.html#the-fair24rs-module",
     "title": "-Better software for Better research-Introduction to the FAIR2 principles for Research Software",
-    "section": "The FAIR24RS Programme: Overview",
-    "text": "The FAIR24RS Programme: Overview"
+    "section": "The FAIR24RS module",
+    "text": "The FAIR24RS module\n What will you go through this year?"
+  },
+  {
+    "objectID": "index.html#the-fair24rs-module-1",
+    "href": "index.html#the-fair24rs-module-1",
+    "title": "-Better software for Better research-Introduction to the FAIR2 principles for Research Software",
+    "section": "The FAIR24RS module",
+    "text": "The FAIR24RS module\n What will you go through this year?"
   },
   {
     "objectID": "index.html#software-lifecycle-planning",
@@ -270,7 +277,7 @@
     "href": "index.html#code-testing",
     "title": "-Better software for Better research-Introduction to the FAIR2 principles for Research Software",
     "section": "Code Testing",
-    "text": "Code Testing\n\n\n Who: Sylvia Whittle, Michael Foster\nWhen/Length: January (half day)\nFormat: In person\n\n\n\nAbstract:\n\nDoes your code work? Are you sure? How do you ensure that it keeps working when you change it? Manually verifying is slow and tedious. Why not automate it? Software testing checks that your code works for you, and when it breaks, it can show you exactly where it broke, without you having to trawl through hundreds of lines of code manually.This course aims to provide you with the tools you need to start automatically ensuring the reliability of your code."
+    "text": "Code Testing\n\n\n Who: Sylvia Whittle, Michael Foster\nWhen/Length: 12/3\n\n\n\nAbstract:\n\nDoes your code work? Are you sure? How do you ensure that it keeps working when you change it? Manually verifying is slow and tedious. Why not automate it? Software testing checks that your code works for you, and when it breaks, it can show you exactly where it broke, without you having to trawl through hundreds of lines of code manually.This course aims to provide you with the tools you need to start automatically ensuring the reliability of your code."
   },
   {
     "objectID": "index.html#reproducible-environments",
@@ -291,6 +298,6 @@
     "href": "index.html#acknowledgements-references",
     "title": "-Better software for Better research-Introduction to the FAIR2 principles for Research Software",
     "section": "Acknowledgements & References",
-    "text": "Acknowledgements & References\n\nThank you to Tamora James for leading the development of this training programme\nThank you to Christopher Wild, Ric Campbell, Farhad Allian, Daniel Brady, Kate O’neill, Joe Heffer, Jenni Adams, Neil Shephard, Sylvia Wittle and Arfon Smith for dedicating time to prepare all the material!\n\nReferences * D. Wilby Lunchbyte talk on the FAIR principles * T. James, FAIR for research software, Talk OpenFest 2024 * The Turing Way * B. Sirvey Le grand homme qui apprend * Chue Hong, Neil P. et al, FAIR principles for Research Software"
+    "text": "Acknowledgements & References\n\nThank you to Tamora James for leading the development of this training programme\nThank you to Christopher Wild, Ric Campbell, Farhad Allian, Daniel Brady, Kate O’neill, Joe Heffer, Jenni Adams, Neil Shephard, Sylvia Wittle and Arfon Smith for dedicating time to prepare all the material!\n\nReferences * D. Wilby Lunchbyte talk on the FAIR principles * T. James, FAIR for research software, Talk OpenFest 2024 * The Turing Way * B. Sirvey Le grand homme qui apprend (in French) * Chue Hong, Neil P. et al, FAIR principles for Research Software"
   }
 ]

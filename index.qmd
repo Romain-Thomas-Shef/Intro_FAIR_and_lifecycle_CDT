@@ -713,9 +713,23 @@ Do you feel that you have received sufficient training to develop reliable softw
 :::
 
 
-## The FAIR<sup>2</sup>4RS Programme: Overview
+## The FAIR<sup>2</sup>4RS module
 
-![](assets/images/Programme.png){fig-align="center"}
+<br>
+What will you go through this year?
+<br>
+<br>
+![](assets/images/CDTprogramme.png){fig-align="center"}
+
+
+## The FAIR<sup>2</sup>4RS module
+
+<br>
+What will you go through this year?
+<br>
+<br>
+![](assets/images/CDTprogrammetoday.png){fig-align="center"}
+<br>
 
 
 ## Software Lifecycle Planning
@@ -846,9 +860,7 @@ Well-documented software promotes reproducibility, maintainability, and increase
 <br><br>
 <span style="color:red">Who</span>: [Sylvia Whittle](mailto:sylvia.whittle@sheffield.ac.uk), Michael Foster 
 
-<span style="color:red">When/Length</span>: January (half day)
-
-<span style="color:red">Format</span>: In person
+<span style="color:red">When/Length</span>: 12/3
 
 
 :::
@@ -926,5 +938,5 @@ Ensuring that others are able to take your code, run it, and are able to produce
 * D. Wilby [Lunchbyte talk on the FAIR principles](https://www.davidwilby.dev/opensourcefair4rs/#/title-slide)<br>
 * T. James, FAIR for research software, Talk OpenFest 2024<br>
 * [The Turing Way](https://book.the-turing-way.org/index.html)<br>
-* B. Sirvey [Le grand homme qui apprend](https://medium.com/@borissirbey/le-grand-homme-qui-apprend-0bc4f4330d2d)<br>
+* B. Sirvey [Le grand homme qui apprend](https://medium.com/@borissirbey/le-grand-homme-qui-apprend-0bc4f4330d2d) (in French)<br>
 * Chue Hong, Neil P. et al, [FAIR principles for Research Software](https://doi.org/10.15497/RDA00068)<br>
