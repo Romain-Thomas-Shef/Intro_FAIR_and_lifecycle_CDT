@@ -8,7 +8,7 @@ format:
 author: "<br>**Romain Thomas**<br>[Head of Research Software Engineering](https://rse.shef.ac.uk/),<br> The University of Sheffield<br>[rse.shef.ac.uk](https://rse.shef.ac.uk)"
 institute: "<br><strong>MADE4MADE4Manufacturing Centre for Doctoral Training, <br> Data science and RSE module </strong>, <br> October 2025"
 date: ""
-footer: "**Access** to the slides: [here](https://fair2-for-research-software.github.io/Better_software_for_better_research/#/what-if-a-generation-of-research-stop-doing-this) - **Source** [Github repository](https://github.com/FAIR2-for-research-software/Better_software_for_better_research)"
+footer: "**Access** to the slides: [here](https://romain-thomas-shef.github.io/Intro_FAIR_and_lifecycle_CDT/#/title-slide) - **Source** [Github repository](https://github.com/Romain-Thomas-Shef/Intro_FAIR_and_lifecycle_CDT)"
 from: markdown+emoji
 css: style.css
 ---
@@ -20,7 +20,7 @@ css: style.css
 
 ::: {.column width="60%"}
 
-- You can follow the slides :arrow_right::arrow_right: <br>
+- You can follow the slides on your own laptop :arrow_right::arrow_right:<br>
 
 - Slides are available freely on github.
 
@@ -34,7 +34,7 @@ css: style.css
 
 ::: {.column width="40%"}
 
-![](assets/images/FAIR_slides.png){fig-align="center"}
+![](assets/images/qr-code_CDT_intro.png){fig-align="center"}
 
 :::
 
@@ -53,11 +53,12 @@ css: style.css
  
 - Released/Published a few modules/software:
   - [dfitspy](https://joss.theoj.org/papers/10.21105/joss.01249)
-  - [SPARTAN](https://www.sciencedirect.com/science/article/pii/S2213133720300810?via%3Dihub)
+  - [SPARTAN](https://www.sciencedirect.com/science/article/abs/pii/S2213133720300810)
   - [SCUBA](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11449/2560271/The-SCUBA-project---First-layer-of-quality-control/10.1117/12.2560271.full)
-
+  - [STON](https://romain-thomas-shef.github.io/STON/index.html) (submitted)
 
 ![](assets/images/p3.jpg){.absolute top="350" left="300" width="800" height="250"}
+
 
 
 ## Who are we? The teams behind the programme {.smaller}
@@ -122,6 +123,18 @@ The Library's Scholarly Communications Team provides specialist services to supp
 
 :::
 
+:::
+
+# Before we start, let me ask you some questions...
+
+##
+::: incremental
+
+- Who here has already made some code?
+- If you opened that code a year from now, how easy would it be for you to run it again?
+- What would someone else need in order to use it — just the files, or also data, documentation, instructions, dependencies…?
+- If I wanted to find your code tomorrow, would I be able to? Where would I look?
+- Would I be able to reuse it for a slightly different purpose than yours?
 :::
 
 # Why FAIR?
@@ -674,7 +687,7 @@ You can find a list of potential journals [here](https://www.software.ac.uk/top-
 
 
 
-# The FAIR<sup>2</sup>4RS training programme at the University
+# The RSE module: what will you learn this year?
 
 
 ## Lack of skills for developing software
@@ -705,7 +718,6 @@ Do you feel that you have received sufficient training to develop reliable softw
 ![](assets/images/Programme.png){fig-align="center"}
 
 
-
 ## Software Lifecycle Planning
 
 ::: {.columns}
@@ -714,12 +726,9 @@ Do you feel that you have received sufficient training to develop reliable softw
 
 <br>
 <span style="color:red">Who</span>: 
-[R Thomas](mailto:romain.thomas@sheffield.ac.uk), [R. Campbell](), [K. O’Neill]()
+[R Thomas](mailto:romain.thomas@sheffield.ac.uk) 
 
-<span style="color:red">When/Length</span>: November 8th / 2.5h (afternoon)
-
-<span style="color:red">Format</span>: Online
-
+<span style="color:red">When/Length</span>: After this talk today!
 
 :::
 
@@ -747,9 +756,7 @@ When you start writing software it is often very useful to think about the devel
 
 <span style="color:red">Who</span>:  [Neil Shephard](mailto:neil.shephard@sheffield.ac.uk)
 
-<span style="color:red">When/Length</span>: 18/19 November (2 half days). Another session in February
-
-<span style="color:red">Format</span>: In person
+<span style="color:red">When/Length</span>: 27/10 & 03/11. 
 
 
 :::
@@ -772,42 +779,6 @@ If you’ve never heard of or used version control and Git before this is the co
 :::
 
 
-## [Advanced] Version control: Git collaboration  
-
-::: {.columns}
-
-::: {.column width="50%"}
-
-
-<br>
-<span style="color:red">Who</span>:  [Neil Shephard](mailto:neil.shephard@sheffield.ac.uk)
-
-<span style="color:red">When/Length</span>: February
-
-<span style="color:red">Format</span>: In person
-
-
-:::
-
-::: {.column width="50%"}
-
-<font size=5>
-
-
-<ins>Abstract:</ins>  
-This course aims to help you develop a <span style="color:red">*deeper understanding of how Git works to facilitate collaboration*</span>. It builds on foundations laid by the Git beginners course. The core idea around the course is that by improving your understanding of working with branches and how to make your commits tidier and neater it makes it easier to understand pull requests and Git history which in turn makes it easier to collaborate and work on code with others (including your future self!).
-
-</font>
-
-
-
-:::
-
-:::
-
-
-
-
 ## Design your code (and write less of it)
 
 ::: {.columns}
@@ -816,11 +787,9 @@ This course aims to help you develop a <span style="color:red">*deeper understan
 
 
 <br><br>
-<span style="color:red">Who</span>: [R. Thomas](mailto:romain.thomas@sheffield.ac.uk)
+<span style="color:red">Who</span>: [Martin Dyer](mailto:martin.dyer@sheffield.ac.uk), Neil Shephard
 
-<span style="color:red">When/Length</span>: 12/13 December (2 half days)
-
-<span style="color:red">Format</span>: In person
+<span style="color:red">When/Length</span>: 24/11 & 01/12
 
 :::
 
@@ -834,12 +803,38 @@ The way you write your code will have a massive impact on how easy it is to main
 
 </font>
 
-
-
 :::
 
 :::
 
+## Documentation
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+
+<br><br>
+<span style="color:red">Who</span>: [Joe Heffer](mailto:joe.heffer@sheffield.ac.uk) 
+
+<span style="color:red">When/Length</span>: 19/2
+
+:::
+
+::: {.column width="50%"}
+
+<font size=5>
+
+<br>
+<ins>Abstract:</ins>  
+
+Well-documented software promotes reproducibility, maintainability, and increased research impact through wider adoption and citation. <span style="color:red">*This course teaches researchers how to document their software effectively, making it accessible and understandable to others.*</span> It covers topics such as writing readable code and usage instructions.
+
+</font>
+
+:::
+
+:::
 
 ## Code Testing
 
@@ -849,7 +844,7 @@ The way you write your code will have a massive impact on how easy it is to main
 
 
 <br><br>
-<span style="color:red">Who</span>: [Sylvia Whittle](mailto:sylvia.whittle@sheffield.ac.uk) 
+<span style="color:red">Who</span>: [Sylvia Whittle](mailto:sylvia.whittle@sheffield.ac.uk), Michael Foster 
 
 <span style="color:red">When/Length</span>: January (half day)
 
@@ -877,57 +872,16 @@ Does your code work? Are you sure? How do you ensure that it keeps working when 
 :::
 
 
-
-
-## Documentation
-
-::: {.columns}
-
-::: {.column width="50%"}
-
-
-<br><br>
-<span style="color:red">Who</span>: [Joe Heffer](mailto:joe.heffer@sheffield.ac.uk) 
-
-<span style="color:red">When/Length</span>: February (half day)
-
-<span style="color:red">Format</span>: In person
-
-
-:::
-
-::: {.column width="50%"}
-
-<font size=5>
-
-<br>
-<ins>Abstract:</ins>  
-
-Well-documented software promotes reproducibility, maintainability, and increased research impact through wider adoption and citation. <span style="color:red">*This course teaches researchers how to document their software effectively, making it accessible and understandable to others.*</span> It covers topics such as writing readable code and usage instructions.
-
-</font>
-
-
-
-:::
-
-:::
-
-
 ## Reproducible Environments
 
 ::: {.columns}
 
 ::: {.column width="50%"}
 
-
 <br><br>
 <span style="color:red">Who</span>: [Dan Brady](mailto:dan.brady@sheffield.ac.uk) 
 
-<span style="color:red">When/Length</span>: March [half day]
-
-<span style="color:red">Format</span>: In person
-
+<span style="color:red">When/Length</span>: 30/4
 
 :::
 
@@ -942,185 +896,12 @@ Ensuring that others are able to take your code, run it, and are able to produce
 
 </font>
 
-
-
 :::
 
 :::
 
 
 
-
-## Packaging
-
-::: {.columns}
-
-::: {.column width="50%"}
-
-
-<br><br>
-<span style="color:red">Who</span>: [Chris Wild]() and [Farhad Allian]()
-
-<span style="color:red">When/Length</span>: April [half day]
-
-<span style="color:red">Format</span>: In person
-
-
-:::
-
-::: {.column width="50%"}
-
-<font size=5>
-
-<br>
-<ins>Abstract:</ins>  
-
-Packaging your software is one of the most important steps in a software project to make it both findable and accessible. <span style="color:red">*This course will provide you with an understanding of why and when packaging is useful*</span>, what different standards exist to package Python projects and take you through each step of the packaging process.
-
-</font>
-
-
-:::
-
-:::
-
-## Software Papers
-
-::: {.columns}
-
-::: {.column width="50%"}
-
-
-<br><br>
-<span style="color:red">Who</span>: [Romain Thomas](mailto:romain.thomas@sheffield.ac.uk) & [Arfon Smith]() 
-
-<span style="color:red">When/Length</span>: April, 1.5h
-
-<span style="color:red">Format</span>: Online
-
-
-:::
-
-::: {.column width="50%"}
-
-<font size=5>
-
-
-<ins>Abstract:</ins>  
-
-Did you know that you can actually publish a paper about your software? This is an ideal way to get recognition (and citation) for the software you have spent countless hours creating. <span style="color:red">*In this course we will walk you through an example of submission in the [Journal of Open Source Software](https://joss.theoj.org/).*</span> We will make an example software submission to the journal, and thanks to the collaboration of the Editor in Chief of JOSS (Arfon Smith), we will look at how the review process is done.
-
-</font>
-
-
-
-:::
-
-:::
-
-
-
-
-## End-to-End demo
-
-
-::: {.columns}
-
-::: {.column width="50%"}
-
-
-<br><br>
-<span style="color:red">Who</span>: [Romain Thomas](mailto:romain.thomas@sheffield.ac.uk)
-
-<span style="color:red">When/Length</span>: April, 1.5h
-
-<span style="color:red">Format</span>: Online
-
-:::
-
-::: {.column width="50%"}
-
-<font size=5>
-
-<br>
-<ins>Abstract:</ins>  
-
-On a short demonstration, we will attempt to review the main points of the training program, from code design  and version control, to testing, documentation and packaging of a short demo software.
-
-</font>
-
-
-
-
-:::
-
-:::
-
-
-
-
-## The FAIR<sup>2</sup>4RS Programme: Timeline
-
-![](assets/images/Programme_Timeline.png){fig-align="center"}
-
-## The FAIR<sup>2</sup>4RS Programme: Material and dependencies
-
-
-::: {.columns}
-
-::: {.column width="50%"}
-
-<font size=5>
-
-- All materials are designed using the same structure ([Software Carpentry workbench](https://carpentries.github.io/workbench/)) and are freely accessible on Github.
-
-- <span style="color:red">**You can pick-and-choose the lecture**</span> you will follow based on the skills you already have. Each lecture comes with a set of prerequisities that are clearly identified.
-
-- A feedback form will be provided after each lecture.
-
-</font>
-:::
-
-::: {.column width="50%"}
-
-![](assets/images/Example_course.png){.absolute top="100" left="600" width="450" height="500"}
-
-
-:::
-
-:::
-
-## the fair<sup>2</sup>4rs programme: important notes
-
-::: {.columns}
-
-::: {.column width="50%"}
-
-<font size=5>
-
-- Training are all <span style="color:red">Free of charge</span>.  
-- BUT! they all need registration and <span style="color:red">in-person sessions have limited places!</span>
-- They will all be available on mydevelopment platform. The first 3 sessions are already open for registration:
-  - [Software Management plan](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/2d69f5c5-f9e7-46c2-999a-ffb3ed1db028) - Nov 8th
-  - [Git/Github zero to Hero](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/d4d09f67-097b-4451-8ddb-86cb90636c06) - Nov 18th/19th
-  - [Code Design](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/d3c2cca5-d894-44b6-a79b-e93dea7a7c94) - Dec 12th/13th
-- January onward sessions will be available for booking around December.
-
-</font>
-:::
-
-::: {.column width="50%"}
-
-<font size=5>
-
-- Direct links are also available on the RSE website: <br><br><br><br><br><br><br><br>
-
-![](assets/images/FAIR_rse_website.png){.absolute top="240" left="650" width="200" height="200"}
-
-</font>
-:::
-
-:::
 
 
 ## RSE website 
@@ -1147,28 +928,3 @@ On a short demonstration, we will attempt to review the main points of the train
 * [The Turing Way](https://book.the-turing-way.org/index.html)<br>
 * B. Sirvey [Le grand homme qui apprend](https://medium.com/@borissirbey/le-grand-homme-qui-apprend-0bc4f4330d2d)<br>
 * Chue Hong, Neil P. et al, [FAIR principles for Research Software](https://doi.org/10.15497/RDA00068)<br>
-
-## Thank you!
-
-
-::: {.columns}
-
-::: {.column width="50%"}
-
-
-![](assets/images/qr-code_feedback.png){fig-align="center"}
-:::
-
-::: {.column width="50%"}
-
-<br><br><br>
-
-Help us improve!
-
-Scan to give your feedback! 
-
-:::
-
-:::
-
-
